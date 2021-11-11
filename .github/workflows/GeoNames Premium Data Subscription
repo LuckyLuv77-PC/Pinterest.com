@@ -1,0 +1,295 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.geonames.org/products/premium-data.html
+Subject: GeoNames Premium Data Subscription
+Date: Fri, 5 Nov 2021 21:11:47 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ywbCgQamOObfcOL8c7TCKcTAg3C6SSIbrH69gtozLG----"
+
+
+------MultipartBoundary--ywbCgQamOObfcOL8c7TCKcTAg3C6SSIbrH69gtozLG----
+Content-Type: text/html
+Content-ID: <frame-2DB2E6F3146DD29254227D533414EEBC@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.geonames.org/products/premium-data.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>GeoNames Premium Data Subscription</title>
+<link rel="search" type="application/opensearchdescription+xml" title="geonames" href="http://www.geonames.org/opensearch-description.xml">
+<link href="https://www.geonames.org/geonames.ico" rel="shortcut icon">
+<link rel="StyleSheet" href="https://www.geonames.org/geonames.css" type="text/css">
+</head>
+
+<body>
+<table id="topmenutable"><tbody><tr>
+<td class="topmenu">&nbsp;<a href="https://www.geonames.org/" title="GeoName Home">&nbsp;GeoNames Home</a>&nbsp;|&nbsp;<a href="https://www.geonames.org/postal-codes/" title="Postal Codes">Postal Codes</a>&nbsp;|&nbsp;<a href="https://www.geonames.org/export/" title="Database Dump and Webservice API">Download / Webservice</a>&nbsp;|&nbsp;<a href="https://www.geonames.org/about.html" title="About GeoNames">About</a>&nbsp;</td>
+
+
+<td class="topsearch">
+   <form class="topsearch" name="searchForm" method="post" action="https://www.geonames.org/servlet/geonames">
+
+      search <input class="topmenu" name="q" size="20" value="" type="text">
+
+     
+   </form>
+</td></tr>
+</tbody></table>
+
+
+<div style="margin: auto; width: 600px; text-align: left;">
+
+
+<h3>Monthly Premium Data Subscription</h3>
+
+The <b>GeoNames Monthly Premium Data</b> is a high quality release that has passed a huge number of consistency checks. The 
+modifications and differences to the previous data release have been monitored and verified by members of the GeoNames team. The Monthly 
+Premium Data is an excellent choice for enterprise users. Applications using the Premium Data can reduce their own consistency 
+checks and let the GeoNames team do this job.
+<br>
+The Premium Data Subscription covers the toponyms, the postal code files are not yet available as premium offering. The <a href="https://www.geonames.org/products/premium-data-polygons.html">polygons</a> are a separate subscription.
+<p>
+The Premium Data allows you to implement your own code directly on the data, if you are interested in the GeoNames webservices the <a href="https://www.geonames.org/commercial-webservices.html">premium webservices</a> are the right choice.
+
+</p><h4>Price</h4> 
+
+The annual subscription to the Premium Data is available for only <b>720 ‚Ç¨</b> for a 12 month period with 12 releases and can be paid via PayPal or bank transfer. 
+
+
+<p>
+
+<a href="https://www.geonames.org/orderpremiumdata/"><img src="https://www.paypal.com/en_US/i/btn/x-click-but23.gif" border="0" alt="Make payments with PayPal - it's fast, free and secure!"></a>
+
+
+<br>
+<br>
+
+
+</p><h4>Value for Subscribers</h4>
+
+
+<h5>Coherent and Verified Data</h5>
+
+We run a great number of consistency checks to make sure the quality of the data improves from one release to the next 
+and no inconsistencies are added to the data. We also monitor modifications and manually verify changes and updates for 
+relevant toponyms. The monitoring helps us find errors added to the database and remove and fix them before we release 
+the premium dump.
+
+
+<h5>Release Notes and Documentation</h5>
+
+Major data updates are described in the documentation to make sure applications can react accordingly and take the 
+necessary steps. Example : major city changing the main name like Bombay being renamed to Mumbai.
+
+<p>
+
+
+
+We recommend that applications read the Release Notes and Documentation
+for a relase before updating their local database with the new data.
+Major changes like the addition of new countries (like Kosovo) may
+require modifications to the application.
+
+
+</p><h5>Additional Datafiles</h5>
+
+Premium Dump users also benefit from additional data files. These additional data files include further information on administrative divisions (iso and other codes), names of the types of administrative divisions or languages spoken in administrative divisions.
+
+<ul>
+<li>airports</li>
+<li>bounding boxes for countries,most administrative divisions, some islands, etc for over 5 000 000 features (outer bounding boxes)</li>
+<li>countrysubdivisions</li>
+<li>dependencies</li>
+<li>spot city relation</li>
+<li>un-locode-geonameid</li>
+</ul>
+
+
+<h5>Statistics of Modifications since last Relase</h5>
+The monthly release includes statistics of modifications for attributes and countries since the previous premium release.
+
+
+<h5>Archive of previous Premium Data Releases</h5>
+
+The monthly premium data files are archived and subscribers have access to the archive. 
+The archive includes all data files, the documentation and the readme. The archive 
+is useful for users who don't want to update their local database on a monthly schedule.
+With the files and documentation in the archive is is easy and simple to update a local 
+database at any moment.
+<br>
+For applications that skip some releases we recommend to read the documentation of the skipped 
+months to be informed about all changes.
+
+<h5>Data formats</h5>
+The premium data is available in tabulator separated flat files and in RDF format. The files have the same format as the freely available files.
+
+<h5>New Datasets</h5>
+
+The proceeds from the Premium Data Dumps help update datasources and adding new datasets to the geonames database more timely and consistently than it would otherwise be possible.
+
+
+<br>
+<br>
+
+<h5>Sample</h5>
+A small <a href="https://download.geonames.org/pd_sample.zip">sample</a> subset is available. It contains the additional files. The premium extract includes the same files as the free extract in the same format. 
+
+<h5>Download</h5>
+
+Subscribers to the Premium Data Subscription can <a href="https://www.geonames.org/premiumdump/">download</a> the data files for all months of their subscription period <a href="https://www.geonames.org/premiumdump/">here</a>.
+
+<h4>Contact</h4>
+Contact : premiumdata@geonames.org
+
+<br>
+<br>
+
+
+</div>
+
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;
+</p><div id="pageFooter">
+info@geonames.org <img src="https://www.geonames.org/img/smallant.gif" alt="ant" align="middle" hspace="40" border="0">
+
+<p>
+
+<a href="https://www.geonames.org/">GeoNames Home</a>
+<span class="separator">‚Ä¢</span>
+<a href="https://www.geonames.org/postal-codes/">Postal Codes</a>
+<span class="separator">‚Ä¢</span>
+<a href="https://www.geonames.org/export/">Download / Webservice</a>
+<span class="separator">‚Ä¢</span>
+<a href="http://forum.geonames.org/">Forum</a>
+<span class="separator">‚Ä¢</span>
+<a href="http://geonames.wordpress.com/">Blog</a>
+<span class="separator">‚Ä¢</span>
+<a href="https://www.geonames.org/sitemap.html">Sitemap</a>
+
+
+</p></div>
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--ywbCgQamOObfcOL8c7TCKcTAg3C6SSIbrH69gtozLG----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.geonames.org/geonames.css
+
+@charset "utf-8";
+
+body { background-color: rgb(255, 255, 255); margin: 0px; padding: 0px; text-align: center; font-size: 12px; font-family: verdana, sans-serif; color: rgb(51, 51, 51); }
+
+.text { background-color: rgb(255, 255, 255); margin: 0px; padding: 0px; font-size: 12px; font-family: verdana, sans-serif; color: rgb(51, 51, 51); }
+
+h3 { color: rgb(51, 102, 51); margin-left: 20px; }
+
+h4 { color: rgb(51, 102, 51); margin-left: 40px; }
+
+h5 { color: rgb(51, 102, 51); margin-left: 60px; }
+
+.list li { padding: 10px; }
+
+.restable { margin: auto; background: rgb(255, 255, 255); border-collapse: collapse; border-top: 1px solid rgb(51, 102, 51); }
+
+tr.odd { background: rgb(221, 255, 221); }
+
+tr.tfooter { border-top: 2px solid rgb(51, 102, 51); }
+
+.restable th { font-weight: bold; padding: 0.3em 0.7em; text-align: left; vertical-align: top; background: rgb(153, 204, 153); white-space: nowrap; border-top: 1px solid rgb(51, 102, 51); border-bottom: 1px solid rgb(51, 102, 51); }
+
+.restable td { font-weight: normal; padding: 0.3em 0.7em; text-align: left; vertical-align: top; }
+
+th.rightalign { text-align: right; vertical-align: bottom; white-space: nowrap; }
+
+td.rightalign { text-align: right; vertical-align: bottom; white-space: nowrap; }
+
+#topmenutable { width: 100%; background: rgb(238, 238, 238); border-bottom: 2px solid rgb(51, 102, 51); white-space: nowrap; }
+
+#topmenutableGooglemap { position: absolute; top: 0px; left: 0px; width: 100%; background: rgb(238, 238, 238); border-bottom: 2px solid rgb(51, 102, 51); white-space: nowrap; }
+
+#topmenutableGooglemapv3 { width: 100%; background: rgb(238, 238, 238); border-bottom: 2px solid rgb(51, 102, 51); white-space: nowrap; }
+
+.topmenu { padding-left: 10px; font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(51, 102, 51); text-align: left; white-space: nowrap; }
+
+.topmenu a { font-size: 12px; font-weight: bold; text-decoration: none; color: rgb(51, 102, 51); text-align: left; white-space: nowrap; }
+
+.topsearch { width: 100%; font-size: 10px; font-family: Helvetica, Arial, san-serif; text-decoration: none; color: rgb(102, 102, 102); text-align: right; display: inline; white-space: nowrap; }
+
+#topmenulogin { display: inline; width: 20px; white-space: nowrap; }
+
+#footer { color: rgb(102, 102, 102); }
+
+#centerPt { font-size: 10px; position: absolute; top: 33px; left: 10px; }
+
+#mapQuest { font-size: 10px; position: absolute; top: 33px; right: 10px; }
+
+.formTemplateClass { padding: 10px; border: double rgb(62, 94, 122); background-color: rgb(255, 255, 255); text-align: center; }
+
+.formTemplateClass h3, h4, h5 { margin-left: 0px; color: rgb(62, 94, 122); }
+
+.formTemplateClass a { font-size: 10px; color: rgb(92, 133, 255); }
+
+#infoWinMenuDiv a { font-size: 10px; color: rgb(92, 133, 255); }
+
+#geonameWin { font-size: 14px; }
+
+.optBoxTemplate { padding: 4px; background: rgb(255, 255, 255); border-style: solid; border-width: 1px; border-color: rgb(62, 94, 122); }
+
+#toolbar { padding: 0px; }
+
+.tabSelected { font-weight: bold; text-decoration: none; }
+
+#editForm { position: absolute; top: 50px; left: 250px; width: 650px; visibility: hidden; z-index: 80; }
+
+#alternateNamesDiv { position: absolute; top: 250px; left: 250px; width: 600px; visibility: hidden; z-index: 100; }
+
+#codeEditFormDiv { position: absolute; top: 50px; left: 250px; width: 450px; visibility: hidden; z-index: 80; }
+
+#hierarchyDiv { position: absolute; top: 250px; left: 250px; width: 550px; visibility: hidden; z-index: 90; }
+
+#loginFormDiv { position: absolute; top: 100px; left: 100px; width: 300px; visibility: hidden; z-index: 100; }
+
+#deleteForm { position: absolute; top: 100px; left: 100px; width: 300px; visibility: hidden; z-index: 100; }
+
+#emailFormDiv { position: absolute; top: 100px; left: 100px; width: 500px; visibility: hidden; z-index: 100; }
+
+#tagFormDiv { position: absolute; top: 100px; left: 100px; width: 500px; visibility: hidden; z-index: 100; }
+
+#list { font-size: 10px; position: absolute; top: 500px; left: 230px; width: 730px; text-align: center; }
+
+#optbox { font-size: 10px; position: absolute; top: 210px; left: 10px; width: 210px; text-align: left; }
+
+#codeForm { display: inline; }
+
+#wikipediaFormDiv { position: absolute; top: 75px; left: 0px; width: 200px; z-index: 10; visibility: hidden; border-style: solid; border-width: 1px; border-color: rgb(62, 94, 122); }
+
+#pageFooter { font-size: 10px; }
+
+.separator { color: rgb(51, 102, 51); margin: 10px; }
+
+#baseStationExport { font-size: 10px; position: absolute; top: 23px; right: 10px; }
+
+#editBaseStationForm { position: absolute; top: 50px; left: 250px; width: 450px; visibility: visible; z-index: 80; }
+
+#left { font-size: 10px; text-align: center; padding: 1px; }
+------MultipartBoundary--ywbCgQamOObfcOL8c7TCKcTAg3C6SSIbrH69gtozLG----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www.paypal.com/en_US/i/btn/x-click-but23.gif
+
+GIF89aD  á	 ˇ”êˇ›®ˇ™'ˇ›ßˇ–áˇ”èˇŸ†àmDˇÃ}Ã  ˇ◊ôˇÀ|ˇ›©MPU/A^ƒã3¶|< <gMZnˇﬂÆ>IYˇß!ywtMPVj_M :b¶ï{ˇ–àóu@àqµÉ7·ºÉ“≤Å>OjˇÊøˇ‘ëµü}ƒëBƒå7>Qo <h¶ít£+µúvˇ©%ˇÎÕˇø]˛“ê>IZˇ‰∫Èl4ˇ⁄†ˇ…u®9M[pˇ‚¥·†<ˇÿ†ˇﬂ≠yfHƒ≠ãygKˇØ4/Fi/Eiˇ∑G“Øy¬|¡{ˇø\·¬ì[dpyupjmràÑ>Pnˇ◊õµîcˇ»s[WQˇÁ¡°&àÉ{µÖ;j_OMYkˇ÷óµéSàÉz“∑è¶óÄˇ◊öˇ y[XR·ô+“µàˇ–äˇ¬dˇÀ{—jov[dqˇ‡∞óãy>PlymZàÅvˇ”ë…çóâsˇÃ~MYlóÉc[bm·Øbˇ‘íˇ—ä“ò?ˇÕ/Fj·õ/¶}?” :cˇ÷òˇ⁄°ˇ∞6ˇ‡ØˇÊ¿ˇ∏JˇŸ¢ˇ¡aˇÓ”ˇﬂØˇ‚∂ˇÀzˇ’ïˇ®"3fˇô                                                                                                                                                                                                                                                                                                                                                             !˘  	 ,    D   ˇ	,"X–‡AÑ	.d∏P‡¿9M§X—‚Eå5n¥ò„≈¢Å7Z"Y“‰Iî)UÆdô≤≈Ç1 Õ§Y”¶MÄ†‹îìßOûAy∆ »‡œQ§IïNòßÈQ3J•}:’Í’?Œ`¿kÄ_å+÷¨X≤¨Îu@◊¥c’∫-V.É≤3nÈ”«@_øÄ6◊Ø·¡Ñ˚"FºXp„≈ò\√«≤ÀV,Q‘Y—â,ñEcMZ4èœñï(‚¡Gi”¢eøñÕgA0
+ ÿ≠{∑E6∞êQ¥¿q‰ªèÎF~\JÁ/ l(b”|πÓ÷y30bÇvåˇ'OﬁÇ">(B≥·å $®— ü@}6l(”9	ÓPœé»œÓìÄÑ$H∞<˝pÉ†0∏@‡¬.ºEBAëVX‡√!RP§çÈ`à" bÅà‡áÑP$#@‚Eà®BëÄP±ER¿Fƒp¢Ç*H‰I(°T$É(ËÇD° y†E8 L(£P§Å1sE8HÑÉ6«Ñ†≥2p J<+hO(¡l‡IŒ|@q@ë'µ¥3 @¬≥‘|ÄK/«tÄ2PK>ü‘s';ùÕ¨‰`N“|“JE<àrÃIüË‚,ë11Ä`—A7UÛŒN=%àÇ6ÿ.=S§ËÏÇcÉÌBëÜÄYòBPÜeM¿EòVë<§ïñÇ|c]v€uw›p`∑ÜˆP§ÑwÛ]∑yııw]
+"Ç6¯`Ñπ¢≥4v¯aàÇ ±¯bå3÷x9‡hbcêC9c¢·îSVyeñ[v˘eò_¶Å  ±˘fús÷ygû{ˆπg “¡¢ã6˙h§ìVzi¶ó÷§E&(dj™´∂˙j¨≥÷zk¨' I†Ü¬{Ï±
+ ;
+------MultipartBoundary--ywbCgQamOObfcOL8c7TCKcTAg3C6SSIbrH69gtozLG----
+Content-Type: image/gif
+Content-Transfer-Encoding: binary
+Content-Location: https://www.geonames.org/img/smallant.gif
+
+GIF89a  ˜  ˇˇˇ˜˜˜ÓÓÓÊÊÊ‹‹‹’’’œœœ«««øøø∑∑∑ØØØßßßüüüóóóèèèááá~~~uuuooogggUUUNNNCCC???666///###                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   !˘    ,      Ï H∞†¡É*\8∞ CÜ <\8¿¡DÑ Pp—‡Ä	 ËXp@ 
+Fí(‡Äè.`@pÄÑ<`»(P@¬T ·Ån"†0!ÊA  ∞ÄÇ0@@ ûX0¡AÑtõg6t∏⁄@ÅÉ*h  ¡Å7`´ †2û–@ÇOä,J»ê gÖ
+	`x Ä(ˆ(ﬂãÊp¿É/F¨¡ Ç<~ M.W§Jò‰Ä≈IX ºπÛÉ ;
+------MultipartBoundary--ywbCgQamOObfcOL8c7TCKcTAg3C6SSIbrH69gtozLG------
