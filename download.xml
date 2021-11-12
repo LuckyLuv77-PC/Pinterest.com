@@ -1,0 +1,2319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom"
+  version="2.0">
+  <channel xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <title>Azure service updates</title>
+    <link>https://azure.microsoft.com/en-us/updates/</link>
+    <description>Azure service updates</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Aug 2021 07:50:39 Z</lastBuildDate>
+    <atom:link
+      href="https://azure.microsoft.com/updates/feed/"
+      rel="self"
+      type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-iot-central-new-and-updated-features-july-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-july-2021/</link>
+      <title>General availability: Azure IoT Central new and updated features—July 2021</title>
+      <description>July updates include enhancements to device information displays and new features to help you manage your IoT Edge devices.</description>
+      <pubDate>Fri, 13 Aug 2021 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">July updates include enhancements to device information displays and new features to help you manage your IoT Edge devices.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-announcements-august-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-announcements-august-2021/</link>
+      <title>Azure Machine Learning public preview announcements - August 2021 </title>
+      <description>New features Cross Location Compute, Hierarchical Time Series, and Compute Instance auto-shutdown and auto-start capabilities are now available in preview in Azure Machine Learning. </description>
+      <pubDate>Thu, 12 Aug 2021 16:00:08 Z</pubDate>
+      <atom:content
+        type="text">New features Cross Location Compute, Hierarchical Time Series, and Compute Instance auto-shutdown and auto-start capabilities are now available in preview in Azure Machine Learning. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-os-version-2108-expected-on-aug-25</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2108-expected-on-aug-25/</link>
+      <title>General availability: Azure Sphere OS version 21.08 expected on Aug 25</title>
+      <description>Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.</description>
+      <pubDate>Thu, 12 Aug 2021 15:04:11 Z</pubDate>
+      <atom:content
+        type="text">Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-github-codespaces</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-github-codespaces/</link>
+      <title>General availability: GitHub Codespaces</title>
+      <description>GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers.</description>
+      <pubDate>Wed, 11 Aug 2021 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">GitHub Codespaces is now available to all GitHub Teams and GitHub Enterprise Cloud customers.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">automatic-extension-upgrade-now-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/automatic-extension-upgrade-now-available/</link>
+      <title>Automatic Azure VM extension upgrade capabilities now generally available</title>
+      <description>Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure Virtual Machines and Virtual Machine Scale Sets, keeping your environments more secure and up to date.</description>
+      <pubDate>Wed, 11 Aug 2021 15:00:20 Z</pubDate>
+      <atom:content
+        type="text">Automatic extension upgrade provides safe and automatic upgrades for extensions on Azure Virtual Machines and Virtual Machine Scale Sets, keeping your environments more secure and up to date.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-discovery-and-assessment-for-aspnet-web-apps-with-azure-migrate/</link>
+      <title>Public preview: Discovery and assessment for ASP.NET web apps with Azure Migrate </title>
+      <description>Secure your connection to Azure Migrate services with Azure Migrate Private Link </description>
+      <pubDate>Tue, 10 Aug 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Secure your connection to Azure Migrate services with Azure Migrate Private Link </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-containerize-apps-and-migrate-to-aks-and-azure-app-service-with-azure-migrate</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-containerize-apps-and-migrate-to-aks-and-azure-app-service-with-azure-migrate/</link>
+      <title>Public preview: Containerize apps and migrate to AKS and Azure App Service with Azure Migrate</title>
+      <description>Azure Migrate: App Containerization helps you containerize and migrate ASP.NET and Java web applications to Azure Kubernetes Service and Azure App Service.  </description>
+      <pubDate>Tue, 10 Aug 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Azure Migrate: App Containerization helps you containerize and migrate ASP.NET and Java web applications to Azure Kubernetes Service and Azure App Service.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-ga-of-azure-vpn-client-for-macos</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-ga-of-azure-vpn-client-for-macos/</link>
+      <title>General availability: Azure VPN Client for macOS</title>
+      <description>Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients.</description>
+      <pubDate>Mon, 09 Aug 2021 19:28:38 Z</pubDate>
+      <atom:content
+        type="text">Azure VPN Client for macOS enables you to utilize features of Azure AD natively, such as multi-factor authentication, conditional access, and user-based policies for you Mac clients.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">global-dr-with-asr</guid>
+      <link>https://azure.microsoft.com/en-us/updates/global-dr-with-asr/</link>
+      <title>General availability: Introducing global disaster recovery via Azure Site Recovery</title>
+      <description>Replicate your virtual machines to any Azure region on the planet to safeguard your applications from disaster.</description>
+      <pubDate>Mon, 09 Aug 2021 15:51:57 Z</pubDate>
+      <atom:content
+        type="text">Replicate your virtual machines to any Azure region on the planet to safeguard your applications from disaster.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">apdk2107update</guid>
+      <link>https://azure.microsoft.com/en-us/updates/apdk2107update/</link>
+      <category>Azure Percept</category>
+      <title>Public preview: Azure Percept DK July (2107) software update is available</title>
+      <description>The Azure Percept July update includes fixes related to security, Wi-Fi/Network, and OOBE UI localization.</description>
+      <pubDate>Mon, 09 Aug 2021 15:00:06 Z</pubDate>
+      <atom:content
+        type="text">The Azure Percept July update includes fixes related to security, Wi-Fi/Network, and OOBE UI localization.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-expressroute-global-reach-2-new-locations</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-expressroute-global-reach-2-new-locations/</link>
+      <title>General availability: Azure ExpressRoute Global Reach: 2 new locations</title>
+      <description>ExpressRoute Global Reach allows you to link ExpressRoute circuits in different locations together to make a private network between your on-premises networks.</description>
+      <pubDate>Sat, 07 Aug 2021 00:21:05 Z</pubDate>
+      <atom:content
+        type="text">ExpressRoute Global Reach allows you to link ExpressRoute circuits in different locations together to make a private network between your on-premises networks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">az-module-azure-automation-coming-soon</guid>
+      <link>https://azure.microsoft.com/en-us/updates/az-module-azure-automation-coming-soon/</link>
+      <title>Az module support in Azure Automation is coming soon </title>
+      <description>Use the latest Az modules in the Automation runbooks</description>
+      <pubDate>Fri, 06 Aug 2021 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">Use the latest Az modules in the Automation runbooks</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">availability-zones-azure-automation-coming-soon</guid>
+      <link>https://azure.microsoft.com/en-us/updates/availability-zones-azure-automation-coming-soon/</link>
+      <title>Availability Zone support for Azure Automation is coming soon</title>
+      <description>Achieve higher reliability and resiliency through Availability Zones in Azure Automation.</description>
+      <pubDate>Fri, 06 Aug 2021 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">Achieve higher reliability and resiliency through Availability Zones in Azure Automation.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-arc-hybrid-extension</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-arc-hybrid-extension/</link>
+      <title>Azure Automation Hybrid Worker Extension for Azure and Arc machines is coming soon</title>
+      <description>Onboard Azure automation hybrid workers using hybrid extension for Azure and Arc machines</description>
+      <pubDate>Fri, 06 Aug 2021 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">Onboard Azure automation hybrid workers using hybrid extension for Azure and Arc machines</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">powershell-7-azure-automation-coming-soon</guid>
+      <link>https://azure.microsoft.com/en-us/updates/powershell-7-azure-automation-coming-soon/</link>
+      <title>Powershell 7 support in Azure Automation is coming soon </title>
+      <description>Execute Automation runbooks for production scenarios using PowerShell 7.1</description>
+      <pubDate>Fri, 06 Aug 2021 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">Execute Automation runbooks for production scenarios using PowerShell 7.1</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azuread-automation-coming-soon</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azuread-automation-coming-soon/</link>
+      <title>Azure AD support for Azure Automation is coming soon </title>
+      <description>Use Azure AD based authentication for Automation public endpoints</description>
+      <pubDate>Fri, 06 Aug 2021 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">Use Azure AD based authentication for Automation public endpoints</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-managed-hsm-private-link-ga-announcement</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-managed-hsm-private-link-ga-announcement/</link>
+      <title>General availability: Azure Managed HSM Private Link </title>
+      <description>You can now use Private Link for Azure Managed HSM to protect sensitive traffic between different Azure and on-premises services.
+
+</description>
+      <pubDate>Thu, 05 Aug 2021 18:00:14 Z</pubDate>
+      <atom:content
+        type="text">You can now use Private Link for Azure Managed HSM to protect sensitive traffic between different Azure and on-premises services.
+
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-new-australia-central-region-added-to-azure-hdinsight</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-new-australia-central-region-added-to-azure-hdinsight/</link>
+      <category>HDInsight</category>
+      <title>General availability: New Australia Central region added to Azure HDInsight</title>
+      <description>HDInsight is now generally available for Australia Central customers.</description>
+      <pubDate>Thu, 05 Aug 2021 15:00:18 Z</pubDate>
+      <atom:content
+        type="text">HDInsight is now generally available for Australia Central customers.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-scheduled-query-rules-api-version-20210201preview-and-deprecation-of-api-version-20200501preview/</link>
+      <category>monitor</category>
+      <category>log alerts</category>
+      <category>alerts</category>
+      <category>API</category>
+      <category>preview</category>
+      <title>Public preview: Azure Monitor Scheduled Query Rules API 2021-02-01-preview </title>
+      <description>Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview.</description>
+      <pubDate>Wed, 04 Aug 2021 16:03:40 Z</pubDate>
+      <atom:content
+        type="text">Scheduled Query Rules API version 2021-02-01-preview is now available and is replacing API version 2020-05-01-preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-public-preview-updates-for-early-august-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-august-2021/</link>
+      <title>Azure SQL—public preview updates for early August 2021 </title>
+      <description>Public preview enhancements and updates released for Azure SQL Managed Instance in early August 2021.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:09 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL Managed Instance in early August 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-lower-capacity-reservation-tier-for-azure-monitor-dedicated-clusters</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-lower-capacity-reservation-tier-for-azure-monitor-dedicated-clusters/</link>
+      <category>Log Analytics</category>
+      <title>General availability: Lower capacity reservation tier for Azure Monitor dedicated clusters</title>
+      <description>Leverage advanced features in Azure Monitor like customer-managed key, Lockbox, infrastructure encryption for lower capacity reservation commitment.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:08 Z</pubDate>
+      <atom:content
+        type="text">Leverage advanced features in Azure Monitor like customer-managed key, Lockbox, infrastructure encryption for lower capacity reservation commitment.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-monitor-it-service-management-connector-is-now-certified-with-servicenow-quebec-version</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-it-service-management-connector-is-now-certified-with-servicenow-quebec-version/</link>
+      <title>General availability: Azure Monitor IT Service Management Connector is now certified with ServiceNow Quebec version</title>
+      <description>The Azure IT Service Management Connector is certified on the Quebec version of ServiceNow, enabling alerts integration with ITSM products.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:08 Z</pubDate>
+      <atom:content
+        type="text">The Azure IT Service Management Connector is certified on the Quebec version of ServiceNow, enabling alerts integration with ITSM products.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-defender-for-sql-now-in-general-availability-on-the-azure-sql-virtual-machine-blade</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-defender-for-sql-now-in-general-availability-on-the-azure-sql-virtual-machine-blade/</link>
+      <title>Azure Defender for SQL now in general availability on the Azure SQL Virtual Machine blade</title>
+      <description>Configure Azure Defender to view and manage your security concerns for SQL Server on Azure virtual machines.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">Configure Azure Defender to view and manage your security concerns for SQL Server on Azure virtual machines.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">software-inventory-and-agentless-dependency-analysis-generally-available-with-azure-migrate</guid>
+      <link>https://azure.microsoft.com/en-us/updates/software-inventory-and-agentless-dependency-analysis-generally-available-with-azure-migrate/</link>
+      <title>Software inventory and agentless dependency analysis generally available with Azure Migrate </title>
+      <description>You can inventory installed applications, roles and features and perform dependency analysis on discovered Windows &amp; Linux servers without installing any agents. </description>
+      <pubDate>Wed, 04 Aug 2021 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">You can inventory installed applications, roles and features and perform dependency analysis on discovered Windows &amp; Linux servers without installing any agents. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-red-hat-openshift-support-for-openshift-47</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-red-hat-openshift-support-for-openshift-47/</link>
+      <title>General availability: Azure Red Hat OpenShift support for OpenShift 4.7</title>
+      <description>Benefit from new features and enhancements in OpenShift release 4.7.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">Benefit from new features and enhancements in OpenShift release 4.7.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-hyperscale-citus-support-for-postgresql-versions-133-and-127-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-support-for-postgresql-versions-133-and-127-in-public-preview/</link>
+      <title>Azure Database for PostgreSQL – Hyperscale (Citus) support for PostgreSQL versions 13.3 and 12.7 in public preview</title>
+      <description>Hyperscale (Citus) now supports the latest PostgreSQL minor versions 13.3 and 12.7 for Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Hyperscale (Citus) now supports the latest PostgreSQL minor versions 13.3 and 12.7 for Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">private-dns-zone-integration-for-azure-database-for-postgresql-flexible-server-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/private-dns-zone-integration-for-azure-database-for-postgresql-flexible-server-in-public-preview/</link>
+      <title>Private DNS zone integration for Azure Database for PostgreSQL – Flexible Server in public preview</title>
+      <description>Private DNS zone integration is now available for Flexible Server on Azure Database for PostgreSQL, a managed service running the open source Postgres database.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Private DNS zone integration is now available for Flexible Server on Azure Database for PostgreSQL, a managed service running the open source Postgres database.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-of-azure-database-for-postgresql-flexible-server-now-offers-reserved-instance-pricing</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-of-azure-database-for-postgresql-flexible-server-now-offers-reserved-instance-pricing/</link>
+      <title>Public preview of Azure Database for PostgreSQL – Flexible Server now offers reserved instance pricing</title>
+      <description>Prepay and commit to one- or three-year’ worth of steady hourly service consumption on Flexible Server for Azure Database for PostgreSQL, a managed service running the open source Postgres database.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:04 Z</pubDate>
+      <atom:content
+        type="text">Prepay and commit to one- or three-year’ worth of steady hourly service consumption on Flexible Server for Azure Database for PostgreSQL, a managed service running the open source Postgres database.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-of-azure-database-flexible-server-now-available-in-new-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-of-azure-database-flexible-server-now-available-in-new-regions/</link>
+      <title>Public preview of Azure Database – Flexible Server now available in new regions</title>
+      <description>The public preview Azure Database for MySQL - Flexible Server (Preview)  is now supported in two additional regions—West US and Germany West Central.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:04 Z</pubDate>
+      <atom:content
+        type="text">The public preview Azure Database for MySQL - Flexible Server (Preview)  is now supported in two additional regions—West US and Germany West Central.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-of-azure-database-for-mysql-flexible-server-now-offers-reserved-instance-pricing</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-of-azure-database-for-mysql-flexible-server-now-offers-reserved-instance-pricing/</link>
+      <title>Public preview of Azure Database for MySQL – Flexible Server now offers reserved instance pricing</title>
+      <description>Prepay and commit to Azure Database for MySQL – Flexible Server for one- or three-years’ worth of steady hourly service consumption at a lower per-hour price point.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">Prepay and commit to Azure Database for MySQL – Flexible Server for one- or three-years’ worth of steady hourly service consumption at a lower per-hour price point.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">private-dns-integration-zone-integration-for-azure-database-for-mysql-flexible-server-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/private-dns-integration-zone-integration-for-azure-database-for-mysql-flexible-server-in-public-preview/</link>
+      <title>Private DNS integration zone integration for Azure Database for MySQL - Flexible Server in public preview</title>
+      <description>Azure Database for MySQL - Flexible Server now supports private DNS zone integration in preview.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure Database for MySQL - Flexible Server now supports private DNS zone integration in preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-early-august-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-august-2021/</link>
+      <title>Azure SQL—general availability updates for early August 2021 </title>
+      <description>General availability enhancements and updates released for Azure SQL Managed Instance in early August 2021.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL Managed Instance in early August 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-mysql-flexible-server-samezone-high-availability-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-samezone-high-availability-in-public-preview/</link>
+      <title>Azure Database for MySQL – Flexible Server: Same-zone high availability in public preview</title>
+      <description>Azure Database for MySQL – Flexible Server enables the creation of a high availability server in the same zone as the primary server.</description>
+      <pubDate>Wed, 04 Aug 2021 16:00:01 Z</pubDate>
+      <atom:content
+        type="text">Azure Database for MySQL – Flexible Server enables the creation of a high availability server in the same zone as the primary server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-backup-now-supports-archive-tier-for-backups-of-sql-server-in-azure-vms/</link>
+      <category>Azure Backup</category>
+      <title>General availability: Azure Backup now supports Archive Tier for backups of SQL Server in Azure VMs</title>
+      <description>Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM.</description>
+      <pubDate>Mon, 02 Aug 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure Backup now provides the capability to move long term retention(LTR) recovery points to low-cost archive tier for SQL Server for Azure VM.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">asc-july2021-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/asc-july2021-2/</link>
+      <category>security</category>
+      <category>AzurePortal</category>
+      <category>asc</category>
+      <category>AzureSecurityCenter</category>
+      <category>security center</category>
+      <category>azure security center</category>
+      <title>Azure Security Center: Public preview updates for July 2021</title>
+      <description>Public preview enhancements and updates released for Azure Security Center in July 2021.</description>
+      <pubDate>Sat, 31 Jul 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure Security Center in July 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">asc-july2021-1</guid>
+      <link>https://azure.microsoft.com/en-us/updates/asc-july2021-1/</link>
+      <category>security</category>
+      <category>AzurePortal</category>
+      <category>asc</category>
+      <category>AzureSecurityCenter</category>
+      <category>security center</category>
+      <category>azure security center</category>
+      <title>Azure Security Center: General availability updates for July 2021</title>
+      <description>New enhancements and updates released for general availability (GA) in Azure Security Center in July 2021.</description>
+      <pubDate>Sat, 31 Jul 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">New enhancements and updates released for general availability (GA) in Azure Security Center in July 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-web-application-firewall-waf-bot-protection-on-application-gateway</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-bot-protection-on-application-gateway/</link>
+      <title>General availability: Web Application Firewall (WAF) bot protection on Application Gateway </title>
+      <description>Try the bot protection rule set alongside your OWASP core rule set (CRS), now generally available for Azure Web Application Firewall running on Application Gateway. </description>
+      <pubDate>Fri, 30 Jul 2021 20:51:32 Z</pubDate>
+      <atom:content
+        type="text">Try the bot protection rule set alongside your OWASP core rule set (CRS), now generally available for Azure Web Application Firewall running on Application Gateway. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-web-application-firewall-waf-geomatch-custom-rules-on-application-gateway</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-web-application-firewall-waf-geomatch-custom-rules-on-application-gateway/</link>
+      <title>General availability: Web Application Firewall (WAF) geomatch custom rules on Application Gateway </title>
+      <description>Try geomatch custom rules to block or allow traffic based on geo-location, now generally available for Azure Web Application Firewall on Application Gateway. </description>
+      <pubDate>Fri, 30 Jul 2021 20:51:26 Z</pubDate>
+      <atom:content
+        type="text">Try geomatch custom rules to block or allow traffic based on geo-location, now generally available for Azure Web Application Firewall on Application Gateway. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">start-vm-on-connect-capability-in-azure-virtual-desktop-enters-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/start-vm-on-connect-capability-in-azure-virtual-desktop-enters-ga/</link>
+      <category>Azure Virtual Desktop</category>
+      <title>Start VM on connect capability in Azure Virtual Desktop enters general availability</title>
+      <description>Start VM on Connect will help you optimize the costs of your deployment by offering a configuration setting in the service to start stopped or deallocated VMs when needed.</description>
+      <pubDate>Thu, 29 Jul 2021 17:30:36 Z</pubDate>
+      <atom:content
+        type="text">Start VM on Connect will help you optimize the costs of your deployment by offering a configuration setting in the service to start stopped or deallocated VMs when needed.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">immutable-storage-with-versioning-for-blob-storage-is-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/immutable-storage-with-versioning-for-blob-storage-is-now-in-public-preview/</link>
+      <title>Immutable storage with versioning for Blob Storage is now in public preview</title>
+      <description>Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable and protect all versions of a blob.</description>
+      <pubDate>Thu, 29 Jul 2021 17:00:36 Z</pubDate>
+      <atom:content
+        type="text">Set time-based policies or legal holds on data so that the data becomes non-erasable and non-modifiable and protect all versions of a blob.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sphere-sdk-version-2107-update-1-is-now-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sphere-sdk-version-2107-update-1-is-now-available/</link>
+      <title>Azure Sphere SDK version 21.07 Update 1 is now available</title>
+      <description>This SDK update fixes a bug in the 21.07 SDK that was released earlier this month. </description>
+      <pubDate>Wed, 28 Jul 2021 23:58:43 Z</pubDate>
+      <atom:content
+        type="text">This SDK update fixes a bug in the 21.07 SDK that was released earlier this month. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution</guid>
+      <link>https://azure.microsoft.com/en-us/updates/vmware-site-recovery-manager-is-now-generally-available-for-azure-vmware-solution/</link>
+      <title>VMware Site Recovery Manager is now generally available for Azure VMware Solution </title>
+      <description>Azure VMware Solution (AVS) customers are now be able to take advantage of VMware Site Recovery Manager (SRM) for disaster recovery scenarios including; On-premise VMware to AVS, and Primary AVS to Secondary AVS private cloud environments. </description>
+      <pubDate>Wed, 28 Jul 2021 16:00:20 Z</pubDate>
+      <atom:content
+        type="text">Azure VMware Solution (AVS) customers are now be able to take advantage of VMware Site Recovery Manager (SRM) for disaster recovery scenarios including; On-premise VMware to AVS, and Primary AVS to Secondary AVS private cloud environments. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">newerlocations</guid>
+      <link>https://azure.microsoft.com/en-us/updates/newerlocations/</link>
+      <title>General availability: Azure ExpressRoute: 3 New Peering Locations Available</title>
+      <description>ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations.</description>
+      <pubDate>Wed, 28 Jul 2021 15:39:35 Z</pubDate>
+      <atom:content
+        type="text">ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. The service is now available in 3 new peering locations.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-site-recovery-update-rollup-56-is-now-generally-available-july-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-56-is-now-generally-available-july-2021/</link>
+      <title>Azure Site Recovery update rollup 56 is now generally available - July 2021</title>
+      <description>The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components.</description>
+      <pubDate>Tue, 27 Jul 2021 17:00:05 Z</pubDate>
+      <atom:content
+        type="text">The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-stream-analytics-tools-for-visual-studio-code</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-stream-analytics-tools-for-visual-studio-code/</link>
+      <title>General Availability: Azure Stream Analytics Tools for Visual Studio Code</title>
+      <description>Azure Stream Analytics Tools for Visual Studio Code is for developers to easily author, test, debug, and manage Azure Stream Analytics jobs.</description>
+      <pubDate>Tue, 27 Jul 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Azure Stream Analytics Tools for Visual Studio Code is for developers to easily author, test, debug, and manage Azure Stream Analytics jobs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-is-now-available-in-the-azure-china-cloud-in-preview/</link>
+      <title>Public preview: Azure Virtual Desktop is now available in the Azure China cloud </title>
+      <description>Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes.</description>
+      <pubDate>Mon, 26 Jul 2021 23:31:05 Z</pubDate>
+      <atom:content
+        type="text">Get started today with Azure Virtual Desktop in public preview in Azure China cloud. Deploy and scale Windows desktops and apps on Azure in minutes.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">aad-support-for-azure-relay-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/aad-support-for-azure-relay-now-in-public-preview/</link>
+      <title>Azure Active Directory support for Azure Relay now in public preview</title>
+      <description>Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code.</description>
+      <pubDate>Fri, 23 Jul 2021 17:00:04 Z</pubDate>
+      <atom:content
+        type="text">Azure Relay now supports authentication and authorization via Azure AD as a public preview offering. With Azure AD, you don't need to store tokens in your code.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-version-2107</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107/</link>
+      <title>General availability: Azure Sphere version 21.07 </title>
+      <description>The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles.</description>
+      <pubDate>Wed, 21 Jul 2021 22:00:06 Z</pubDate>
+      <atom:content
+        type="text">The 21.07 update includes heap memory allocation tracking, time sync changes, and support for service principles.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">new-west-us-3-and-jio-india-west-regions-added-to-azure-hdinsight</guid>
+      <link>https://azure.microsoft.com/en-us/updates/new-west-us-3-and-jio-india-west-regions-added-to-azure-hdinsight/</link>
+      <title>General availability: New West US 3 region added to Azure HDInsight</title>
+      <description>HDInsight is now generally available for West US 3 customers.</description>
+      <pubDate>Wed, 21 Jul 2021 17:21:49 Z</pubDate>
+      <atom:content
+        type="text">HDInsight is now generally available for West US 3 customers.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-agent-and-data-collection-rules-now-support-direct-proxies-and-log-analytics-gateway/</link>
+      <title>General availability: Azure Monitor Agent and Data Collection Rules now support direct proxies and Log Analytics gateway</title>
+      <description>If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">If you use a proxy server or Log Analytics gateway to communicate to Azure Monitor, you can now start using the new Azure Monitor Agent (AMA) and Data Collection Rules (DCR) in these network configurations.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-better-integration-between-azure-monitor-and-grafana</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-better-integration-between-azure-monitor-and-grafana/</link>
+      <title>General availability: Better integration between Azure Monitor and Grafana</title>
+      <description>Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Customers using Grafana for visualizing Azure Monitor metrics can now enable additional data sources and have easier authentication using managed identity.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-public-ip-information-and-interzone-traffic-among-many-new-insights-in-traffic-analytics</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-public-ip-information-and-interzone-traffic-among-many-new-insights-in-traffic-analytics/</link>
+      <title>General availability: Public IP information and inter-zone traffic among many new insights in Traffic Analytics</title>
+      <description>Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type &amp; threat description for Malicious IPs. Now, it also supports inter-zone traffic and VMSS level traffic insights.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:04 Z</pubDate>
+      <atom:content
+        type="text">Azure Network Watcher Traffic Analytics solutions is used to monitor network traffic. It now provides WHOIS and Geographic data for all Public IPs interacting with your deployments and further adds DNS domain, threat type &amp; threat description for Malicious IPs. Now, it also supports inter-zone traffic and VMSS level traffic insights.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-python-functions-now-support-custom-telemetry-in-application-insights</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-python-functions-now-support-custom-telemetry-in-application-insights/</link>
+      <title>General availability: Python Functions now support custom telemetry in Application Insights</title>
+      <description>Azure Monitor is releasing a new PyPI package that expands distributed tracing support in Application Insights for Python Functions.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:04 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor is releasing a new PyPI package that expands distributed tracing support in Application Insights for Python Functions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-builtin-azure-policy-support-for-network-watcher-traffic-analytics</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-builtin-azure-policy-support-for-network-watcher-traffic-analytics/</link>
+      <title>General availability: Built-in Azure Policy support for Network Watcher Traffic Analytics</title>
+      <description>Traffic Analytics can now be enabled using Built-in Azure Policy, thus improving your deployment experience. Now organizations can enforce org wide standards and manage traffic monitoring at scale using these policies.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:04 Z</pubDate>
+      <atom:content
+        type="text">Traffic Analytics can now be enabled using Built-in Azure Policy, thus improving your deployment experience. Now organizations can enforce org wide standards and manage traffic monitoring at scale using these policies.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-mysql-flexible-server-autogrow-storage-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-autogrow-storage-in-public-preview/</link>
+      <title>Azure Database for MySQL – Flexible Server Auto-grow storage in public preview</title>
+      <description>With auto-grow storage enabled, your storage automatically grows when storage consumed on the Flexible Server is nearing its provisioned limit.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">With auto-grow storage enabled, your storage automatically grows when storage consumed on the Flexible Server is nearing its provisioned limit.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-app-service-migration-assistant-powershellbased-experience</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-app-service-migration-assistant-powershellbased-experience/</link>
+      <category>PowerShell</category>
+      <category>App Service Migration Assistant</category>
+      <title>Public preview: Azure App Service Migration Assistant PowerShell-based experience </title>
+      <description>The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">The PowerShell-based experience for the Azure App Service Migration Assistant is now in public preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">the-public-preview-of-azure-database-for-postgresql-flexible-server-now-supported-in-new-regions-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/the-public-preview-of-azure-database-for-postgresql-flexible-server-now-supported-in-new-regions-2/</link>
+      <category>Azure Database for PostgreSQL</category>
+      <title>The public preview of Azure Database for PostgreSQL – Flexible Server now supported in new regions</title>
+      <description>Provision new Flexible Server deployments in new regions for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure.</description>
+      <pubDate>Wed, 21 Jul 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">Provision new Flexible Server deployments in new regions for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-vmware-solution-now-generally-available-in-the-canada-east-region</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-canada-east-region/</link>
+      <title>Azure VMware Solution now generally available in the Canada East region</title>
+      <description>Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). </description>
+      <pubDate>Mon, 19 Jul 2021 23:43:44 Z</pubDate>
+      <atom:content
+        type="text">Azure VMware Solution has expanded availability to Canada East. With this release Canada East is now the second region within the Canadian sovereign area to become available (joining Canada Central). </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">iot-edge-metrics-collector-module-101-release</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iot-edge-metrics-collector-module-101-release/</link>
+      <category>iot iotedge metrics-collector</category>
+      <title>Public preview: IoT Edge Metrics Collector module 1.0.1 release</title>
+      <description>This update provides security and reliability improvements, and support for government and regional clouds.</description>
+      <pubDate>Mon, 19 Jul 2021 16:51:26 Z</pubDate>
+      <atom:content
+        type="text">This update provides security and reliability improvements, and support for government and regional clouds.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-the-azure-firewall-premium-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-the-azure-firewall-premium-general-availability/</link>
+      <title>Announcing the Azure Firewall Premium general availability</title>
+      <description>Utilize next-generation firewall capabilities in Azure Firewall Premium</description>
+      <pubDate>Mon, 19 Jul 2021 16:00:18 Z</pubDate>
+      <atom:content
+        type="text">Utilize next-generation firewall capabilities in Azure Firewall Premium</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-scan-and-view-lineage-of-data-stored-in-erwin-mart-google-bigquery-and-looker-using-azure-purview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-scan-and-view-lineage-of-data-stored-in-erwin-mart-google-bigquery-and-looker-using-azure-purview/</link>
+      <title>Public preview: Scan and view lineage of data stored in Erwin Mart, Google BigQuery and Looker using Azure Purview</title>
+      <description>Azure Purview now supports automated scanning from Erwin, BigQuery and Looker soureces to extract schema and lineage between data. </description>
+      <pubDate>Mon, 19 Jul 2021 16:00:10 Z</pubDate>
+      <atom:content
+        type="text">Azure Purview now supports automated scanning from Erwin, BigQuery and Looker soureces to extract schema and lineage between data. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">shared-disks-on-azure-disk-storage-is-now-generally-available-on-all-premium-ssds-and-standard-ssds</guid>
+      <link>https://azure.microsoft.com/en-us/updates/shared-disks-on-azure-disk-storage-is-now-generally-available-on-all-premium-ssds-and-standard-ssds/</link>
+      <title>Shared disks on Azure Disk Storage are now generally available on all Premium SSD and Standard SSD sizes</title>
+      <description>Shared disks can now be leveraged on smaller Premium SSDs from 4GiB to 128 GiB and all Standard SSDs from 4 GiB to 32 TiB. This expands shared disk support to Ultra Disk, Premium SSD, and Standard SSD enabling you to optimize for different price and performance options based on your workload needs. </description>
+      <pubDate>Mon, 19 Jul 2021 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">Shared disks can now be leveraged on smaller Premium SSDs from 4GiB to 128 GiB and all Standard SSDs from 4 GiB to 32 TiB. This expands shared disk support to Ultra Disk, Premium SSD, and Standard SSD enabling you to optimize for different price and performance options based on your workload needs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-alerts-pacemaker-cluster-rhel-os-and-datasize-for-sap-hana</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-alerts-pacemaker-cluster-rhel-os-and-datasize-for-sap-hana/</link>
+      <category>Azure Monitor for SAP Solutions</category>
+      <title>Public preview: Alerts, Pacemaker cluster (RHEL OS) and data-size for SAP HANA </title>
+      <description>SAP on Azure customers can now set threshold-based alerts on SAP application, databases and clusters though Azur portal with few clicks. 
+</description>
+      <pubDate>Mon, 19 Jul 2021 15:00:10 Z</pubDate>
+      <atom:content
+        type="text">SAP on Azure customers can now set threshold-based alerts on SAP application, databases and clusters though Azur portal with few clicks. 
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">private-preview-new-telemetry-for-sap-application-netweaver-in-azure-portal</guid>
+      <link>https://azure.microsoft.com/en-us/updates/private-preview-new-telemetry-for-sap-application-netweaver-in-azure-portal/</link>
+      <category>Azure Monitor for SAP Solutions</category>
+      <title>Private preview: New telemetry for SAP Application (NetWeaver) in Azure portal</title>
+      <description>SAP on Azure customers can now view SAP Application telemetry like short dumps, SDF/SMON and STO3 in Azure portal. 
+</description>
+      <pubDate>Mon, 19 Jul 2021 15:00:02 Z</pubDate>
+      <atom:content
+        type="text">SAP on Azure customers can now view SAP Application telemetry like short dumps, SDF/SMON and STO3 in Azure portal. 
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-vmware-solution-now-generally-available-in-the-australia-southeast-region</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-generally-available-in-the-australia-southeast-region/</link>
+      <title>Azure VMware Solution now generally available in the Australia Southeast region</title>
+      <description>Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). </description>
+      <pubDate>Fri, 16 Jul 2021 19:48:07 Z</pubDate>
+      <atom:content
+        type="text">Azure VMware Solution has expanded availability to Australia Southeast. With this release Australia Southeast is now the second region within the Australian sovereign area to become available (joining Australia East). </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-user-assigned-identities</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-user-assigned-identities/</link>
+      <title>Azure Automation support for User Assigned Managed Identities is now in public preview</title>
+      <description>Use user-assigned identities for Azure Automation runbook jobs. </description>
+      <pubDate>Fri, 16 Jul 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Use user-assigned identities for Azure Automation runbook jobs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-iot-central-new-and-updated-features-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-june-2021/</link>
+      <title>General availability: Azure IoT Central new and updated features—June 2021</title>
+      <description>June updates include dashboard enhancements, the IoT Plug and Play smartphone app including updated quickstarts, rule condition enhancements, a new responsive UI, and a new Learn module.</description>
+      <pubDate>Thu, 15 Jul 2021 18:00:03 Z</pubDate>
+      <atom:content
+        type="text">June updates include dashboard enhancements, the IoT Plug and Play smartphone app including updated quickstarts, rule condition enhancements, a new responsive UI, and a new Learn module.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">session-and-cache-provider-using-azure-cosmos-db-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/session-and-cache-provider-using-azure-cosmos-db-in-general-availability/</link>
+      <title>Session and cache provider using Azure Cosmos DB in general availability</title>
+      <description>Use Azure Cosmos DB as a session state and cache provider through Microsoft.Extensions.Caching.Cosmos extension package for global scaling and low latency. </description>
+      <pubDate>Thu, 15 Jul 2021 00:27:52 Z</pubDate>
+      <atom:content
+        type="text">Use Azure Cosmos DB as a session state and cache provider through Microsoft.Extensions.Caching.Cosmos extension package for global scaling and low latency. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">limited-preview-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal</guid>
+      <link>https://azure.microsoft.com/en-us/updates/limited-preview-migrate-your-azure-data-lake-storage-from-gen1-to-gen2-using-the-azure-portal/</link>
+      <category>Tag=AzurePortal</category>
+      <title>Limited preview: Migrate your Azure Data Lake Storage from Gen1 to Gen2 using the Azure Portal</title>
+      <description>Use this simple experience to migrate your data from Azure Data Lake Storage Gen1 to Gen2 to speed up your time to insights.</description>
+      <pubDate>Wed, 14 Jul 2021 22:16:38 Z</pubDate>
+      <atom:content
+        type="text">Use this simple experience to migrate your data from Azure Data Lake Storage Gen1 to Gen2 to speed up your time to insights.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-maps-creator-v1-will-be-retired-on-6-september-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-maps-creator-v1-will-be-retired-on-6-september-2021/</link>
+      <title>Azure Maps Creator v1 preview will be retired on 6 September 2021</title>
+      <description>Transition to Azure Maps Creator v2 by 6 September 2021</description>
+      <pubDate>Wed, 14 Jul 2021 22:14:39 Z</pubDate>
+      <atom:content
+        type="text">Transition to Azure Maps Creator v2 by 6 September 2021</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-service-bus-support-for-large-messages</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-support-for-large-messages/</link>
+      <title>Public preview: Azure Service Bus support for large messages</title>
+      <description>You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces.</description>
+      <pubDate>Wed, 14 Jul 2021 21:00:32 Z</pubDate>
+      <atom:content
+        type="text">You can now send and receive message payloads of up to 100MB in Azure Service Bus premium tier namespaces.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365</guid>
+      <link>https://azure.microsoft.com/en-us/updates/new-ways-to-deliver-a-secure-hybrid-workplace-with-azure-virtual-desktop-and-windows-365/</link>
+      <category>Azure Virtual Desktop</category>
+      <category>AVD</category>
+      <category>Windows Virtual Desktop</category>
+      <category>WVD</category>
+      <title>General availability: Deliver a secure hybrid workplace with Azure Virtual Desktop and Windows 365</title>
+      <description>Learn about our new announcements and product updates for Azure Virtual Desktop at Microsoft Inspire 2021.</description>
+      <pubDate>Wed, 14 Jul 2021 18:01:31 Z</pubDate>
+      <atom:content
+        type="text">Learn about our new announcements and product updates for Azure Virtual Desktop at Microsoft Inspire 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-spring-cloud-pricing-model-change</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-spring-cloud-pricing-model-change/</link>
+      <title>General availability: Azure Spring Cloud Pricing Model Change</title>
+      <description>Upcoming changes to base units in Azure Spring Cloud Basic and Standard will result in lower costs for many customers.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">Upcoming changes to base units in Azure Spring Cloud Basic and Standard will result in lower costs for many customers.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">free-extended-security-updates-only-on-azure-for-windows-server-2012-r2and-sql-server-2012</guid>
+      <link>https://azure.microsoft.com/en-us/updates/free-extended-security-updates-only-on-azure-for-windows-server-2012-r2and-sql-server-2012/</link>
+      <title>Free Extended Security Updates only on Azure for Windows Server 2012 /R2and SQL Server 2012 </title>
+      <description>Learn how you can take advantage of free Extended Security only Azure for workloads running on Windows Server 2012/R2 and SQL Server 2012 releases. </description>
+      <pubDate>Wed, 14 Jul 2021 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">Learn how you can take advantage of free Extended Security only Azure for workloads running on Windows Server 2012/R2 and SQL Server 2012 releases. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-api-management-and-event-grid-integration</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-api-management-and-event-grid-integration/</link>
+      <title>Public preview: API Management and Event Grid integration</title>
+      <description>Azure API Management has now been updated to publish events to Event Grid.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">Azure API Management has now been updated to publish events to Event Grid.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-enabled-by-azure-arc-generally-available-on-july-30-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-enabled-by-azure-arc-generally-available-on-july-30-2021/</link>
+      <title>Azure SQL enabled by Azure Arc generally available on July 30, 2021</title>
+      <description>Bring cloud data management to data workloads on-premises, at the edge, and in multicloud environments. </description>
+      <pubDate>Wed, 14 Jul 2021 16:00:33 Z</pubDate>
+      <atom:content
+        type="text">Bring cloud data management to data workloads on-premises, at the edge, and in multicloud environments. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-spring-cloud-new-relic-one-integration-and-additional-feature-updates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-spring-cloud-new-relic-one-integration-and-additional-feature-updates/</link>
+      <title>Public preview: Azure Spring Cloud New Relic One integration and additional feature updates</title>
+      <description>Azure Spring Cloud now supports New Relic One for performance monitoring (in preview), reduced minimum app instance sizes, automated app deployments with Terraform and Azure Pipelines, and Azure Virtual Network in Azure China.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:33 Z</pubDate>
+      <atom:content
+        type="text">Azure Spring Cloud now supports New Relic One for performance monitoring (in preview), reduced minimum app instance sizes, automated app deployments with Terraform and Azure Pipelines, and Azure Virtual Network in Azure China.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-application-insights-integration-with-app-services-for-java-nodejs-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-application-insights-integration-with-app-services-for-java-nodejs-apps/</link>
+      <category>Application Insights</category>
+      <title>General availability: Application Insights integration with App Services for Java &amp; Node.js apps</title>
+      <description>Integration of Azure Monitor application insights with App Services now enables you to monitor your Java &amp; Node.js apps directly from Azure portal, without making any changes to your code, with just a click of a button.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:33 Z</pubDate>
+      <atom:content
+        type="text">Integration of Azure Monitor application insights with App Services now enables you to monitor your Java &amp; Node.js apps directly from Azure portal, without making any changes to your code, with just a click of a button.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-announcements-july-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-announcements-july-2021/</link>
+      <title>Azure Machine Learning public preview announcements July 2021</title>
+      <description>New features Custom Containers in Managed Online Endpoints and Job Creation UI are now available in preview in Azure Machine Learning.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:32 Z</pubDate>
+      <atom:content
+        type="text">New features Custom Containers in Managed Online Endpoints and Job Creation UI are now available in preview in Azure Machine Learning.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">confidential-computing-using-always-encrypted-with-secure-enclaves-for-azure-sql-database-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/confidential-computing-using-always-encrypted-with-secure-enclaves-for-azure-sql-database-in-general-availability/</link>
+      <title>Confidential computing using Always Encrypted with secure enclaves for Azure SQL Database in general availability</title>
+      <description>Always Encrypted with secure enclaves helps prevent malicious admins and malware from exfiltrating sensitive data, while enabling in-place encryption and rich confidential computations, including pattern matching, range comparisons, and sorting.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:32 Z</pubDate>
+      <atom:content
+        type="text">Always Encrypted with secure enclaves helps prevent malicious admins and malware from exfiltrating sensitive data, while enabling in-place encryption and rich confidential computations, including pattern matching, range comparisons, and sorting.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">call-recording-in-public-preview-for-azure-communication-services</guid>
+      <link>https://azure.microsoft.com/en-us/updates/call-recording-in-public-preview-for-azure-communication-services/</link>
+      <title>Call recording in public preview for Azure Communication Services </title>
+      <description>Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. </description>
+      <pubDate>Wed, 14 Jul 2021 16:00:31 Z</pubDate>
+      <atom:content
+        type="text">Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">insights-and-workbooks-for-azure-cosmos-db-now-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/insights-and-workbooks-for-azure-cosmos-db-now-in-general-availability/</link>
+      <title>Insights and workbooks for Azure Cosmos DB now in general availability</title>
+      <description>Now generally available, Azure Monitor insights and Azure Monitor workbooks make it easier to visualize and customize metrics for dynamic monitoring of your Azure Cosmos DB resource. </description>
+      <pubDate>Wed, 14 Jul 2021 16:00:31 Z</pubDate>
+      <atom:content
+        type="text">Now generally available, Azure Monitor insights and Azure Monitor workbooks make it easier to visualize and customize metrics for dynamic monitoring of your Azure Cosmos DB resource. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-ad-authentication-for-application-insights</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-ad-authentication-for-application-insights/</link>
+      <title>Azure AD authentication for Application Insights </title>
+      <description>Azure Monitor application insights now supports Azure Active Directory authentication. helping you ensure that only authenticated telemetry is ingested.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:31 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor application insights now supports Azure Active Directory authentication. helping you ensure that only authenticated telemetry is ingested.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-new-application-insights-standard-test-for-synthetic-monitoring</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-application-insights-standard-test-for-synthetic-monitoring/</link>
+      <title>Public preview: New Application Insights standard test for synthetic monitoring</title>
+      <description>Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:30 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor Application Insights is introducing a new availability test to handle most of your single request test scenarios.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-create-aks-clusters-without-local-user-accounts-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-create-aks-clusters-without-local-user-accounts-2/</link>
+      <title>Public preview: Create AKS clusters without local user accounts </title>
+      <description>You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. </description>
+      <pubDate>Wed, 14 Jul 2021 16:00:30 Z</pubDate>
+      <atom:content
+        type="text">You can now disable local user accounts when creating Azure Active Directory integrated Azure Kubernetes Service clusters. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-new-azure-monitor-builtin-policy-for-log-analytics-workspace-and-linked-automation-account</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-new-azure-monitor-builtin-policy-for-log-analytics-workspace-and-linked-automation-account/</link>
+      <title>General availability: New Azure Monitor built-in policy for Log Analytics workspace and linked automation account</title>
+      <description>A new Azure Monitor built-in policy gives you control to provision central Log Analytics workspaces and linked automation account across your subscriptions consistently.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:30 Z</pubDate>
+      <atom:content
+        type="text">A new Azure Monitor built-in policy gives you control to provision central Log Analytics workspaces and linked automation account across your subscriptions consistently.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-kubernetes-service-aks-smart-defaults</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-aks-smart-defaults/</link>
+      <title>Public preview: Azure Kubernetes Service (AKS) smart defaults</title>
+      <description>Use scenario-specific cluster configurations to get going quickly and easily, while retaining the ability to customize to meet your unique needs as needed.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:30 Z</pubDate>
+      <atom:content
+        type="text">Use scenario-specific cluster configurations to get going quickly and easily, while retaining the ability to customize to meet your unique needs as needed.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-event-grid-integration-with-aks-3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-event-grid-integration-with-aks-3/</link>
+      <title>Public preview: Event Grid integration with AKS</title>
+      <description>Automate AKS operations by subscribing to events and handling them.</description>
+      <pubDate>Wed, 14 Jul 2021 16:00:29 Z</pubDate>
+      <atom:content
+        type="text">Automate AKS operations by subscribing to events and handling them.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">now-live-azure-purview-product-glossary</guid>
+      <link>https://azure.microsoft.com/en-us/updates/now-live-azure-purview-product-glossary/</link>
+      <title>Now available: Azure Purview product glossary</title>
+      <description>The Azure Purview product glossary provides comprehensive set of product terms and definitions used in Azure Purview features and functionality.</description>
+      <pubDate>Tue, 13 Jul 2021 16:53:48 Z</pubDate>
+      <atom:content
+        type="text">The Azure Purview product glossary provides comprehensive set of product terms and definitions used in Azure Purview features and functionality.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">disk-pool-for-azure-vmware-solution-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/disk-pool-for-azure-vmware-solution-now-in-public-preview/</link>
+      <title>Disk pool for Azure VMware Solution now in public preview</title>
+      <description>With disk pool, Azure VMware Solution customers can now access Azure Disk Storage for high-performance, durable block storage. Customer can scale their storage independent of compute and handle their growing data needs more cost-effectively.</description>
+      <pubDate>Tue, 13 Jul 2021 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">With disk pool, Azure VMware Solution customers can now access Azure Disk Storage for high-performance, durable block storage. Customer can scale their storage independent of compute and handle their growing data needs more cost-effectively.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-api-management-updates-july-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-api-management-updates-july-2021/</link>
+      <category>API Management</category>
+      <title>General availability: Azure API Management updates - July 2021</title>
+      <description>Azure API Management service has been updated to provide better support to customers through policy expressions and Power platform.</description>
+      <pubDate>Mon, 12 Jul 2021 19:55:36 Z</pubDate>
+      <atom:content
+        type="text">Azure API Management service has been updated to provide better support to customers through policy expressions and Power platform.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-customer-managed-keys</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-customer-managed-keys/</link>
+      <title>General availability: Azure Automation Customer Managed Keys </title>
+      <description>Encrypt your Automation account assests using Customer-managed keys. </description>
+      <pubDate>Mon, 12 Jul 2021 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">Encrypt your Automation account assests using Customer-managed keys. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-blob-storage-container-soft-delete-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-blob-storage-container-soft-delete-generally-available/</link>
+      <category>storage AzurePortal dataprotection</category>
+      <title>Azure Blob storage - Container Soft Delete generally available</title>
+      <description>Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support</description>
+      <pubDate>Mon, 12 Jul 2021 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">Administrators can set a retention policy and recover data from a deletion of a blob container without contacting support</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-bastion-standard-sku-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-bastion-standard-sku-public-preview/</link>
+      <title>Azure Bastion Standard SKU public preview</title>
+      <description>Azure Bastion Standard SKU offers key capabilities for enterprises, unblocking critical customer scenarios. </description>
+      <pubDate>Mon, 12 Jul 2021 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">Azure Bastion Standard SKU offers key capabilities for enterprises, unblocking critical customer scenarios. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-hpc-cache-for-nvmebased-storage-storage-target-management-and-hipaa-compliance</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-hpc-cache-for-nvmebased-storage-storage-target-management-and-hipaa-compliance/</link>
+      <title>General availability: HPC Cache for NVME-based Storage, Storage Target Management, and HIPAA Compliance</title>
+      <description>The latest release of HPC Cache adds support for high throughput VMs as well as enhancements to storage target operations. </description>
+      <pubDate>Mon, 12 Jul 2021 15:37:42 Z</pubDate>
+      <atom:content
+        type="text">The latest release of HPC Cache adds support for high throughput VMs as well as enhancements to storage target operations. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">hpc-cache-on-eseries-vms-support-of-blob-nfs-30-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/hpc-cache-on-eseries-vms-support-of-blob-nfs-30-now-generally-available/</link>
+      <title>HPC Cache on E-Series VMs Support of Blob NFS 3.0 now generally available</title>
+      <description>Add Azure HPC Cache to support new workloads in Blob NFS 3.0.</description>
+      <pubDate>Mon, 12 Jul 2021 15:37:03 Z</pubDate>
+      <atom:content
+        type="text">Add Azure HPC Cache to support new workloads in Blob NFS 3.0.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sphere-version-2107-update-1-is-now-available-for-evaluation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sphere-version-2107-update-1-is-now-available-for-evaluation/</link>
+      <title>Azure Sphere version 21.07 Update 1 is now available for evaluation</title>
+      <description>Participate in the retail evaluation of 21.07 Update 1 now to ensure full compatibility.  The OS evaluation period for 21.07 continues for 14 days for backward compatibility testing.</description>
+      <pubDate>Fri, 09 Jul 2021 18:48:27 Z</pubDate>
+      <atom:content
+        type="text">Participate in the retail evaluation of 21.07 Update 1 now to ensure full compatibility.  The OS evaluation period for 21.07 continues for 14 days for backward compatibility testing.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-updates-to-secrets-configuration-options-in-app-service-and-azure-functions/</link>
+      <title>General availability: Updates to secrets configuration options in App Service and Azure Functions</title>
+      <description>App Service and Azure Functions have been updated to better support management of secrets as part of your secure application development process. </description>
+      <pubDate>Wed, 07 Jul 2021 20:02:13 Z</pubDate>
+      <atom:content
+        type="text">App Service and Azure Functions have been updated to better support management of secrets as part of your secure application development process. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">app-service-environment-v3-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/app-service-environment-v3-now-generally-available/</link>
+      <title>App Service Environment v3 now generally available</title>
+      <description>App Service Environments v3 is now available with no stamp fee and a simplified deployment experience for isolated workloads.</description>
+      <pubDate>Wed, 07 Jul 2021 16:00:55 Z</pubDate>
+      <atom:content
+        type="text">App Service Environments v3 is now available with no stamp fee and a simplified deployment experience for isolated workloads.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">direct-routing-for-azure-communication-services-now-available-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-now-available-in-public-preview/</link>
+      <title>Direct routing for Azure Communication Services now available in public preview</title>
+      <description>Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. </description>
+      <pubDate>Wed, 07 Jul 2021 16:00:54 Z</pubDate>
+      <atom:content
+        type="text">Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-of-owasp-core-rule-set-32-for-azure-web-application-firewall</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-of-owasp-core-rule-set-32-for-azure-web-application-firewall/</link>
+      <title>Public preview of OWASP ModSecurity Core Rule Set 3.2 for Azure Web Application Firewall </title>
+      <description>Try our new rule set and increased limits with OWASP Core Rule Set 3.2, now in public preview for Azure Web Application Firewall. </description>
+      <pubDate>Wed, 07 Jul 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Try our new rule set and increased limits with OWASP Core Rule Set 3.2, now in public preview for Azure Web Application Firewall. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">upgrade-to-azure-communication-services-calling-javascript-sdk-110-by-31-july-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/upgrade-to-azure-communication-services-calling-javascript-sdk-110-by-31-july-2021/</link>
+      <title>Upgrade to Azure Communication Services Calling JavaScript SDK 1.1.0 by 31 July 2021 </title>
+      <description>We’ve updated JavaScript SDK 1.1.0 to address browser calling applications compatibility. </description>
+      <pubDate>Wed, 07 Jul 2021 00:06:12 Z</pubDate>
+      <atom:content
+        type="text">We’ve updated JavaScript SDK 1.1.0 to address browser calling applications compatibility. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">iothubupdate</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iothubupdate/</link>
+      <title>IoT Hub IP address change notification</title>
+      <description>IoT Hub will be updating the underlying infrastructure and will go through an internal service update. The update will change the underlying DNS record for IoT Hub, resulting in a change of the IP address.</description>
+      <pubDate>Tue, 06 Jul 2021 22:16:40 Z</pubDate>
+      <atom:content
+        type="text">IoT Hub will be updating the underlying infrastructure and will go through an internal service update. The update will change the underlying DNS record for IoT Hub, resulting in a change of the IP address.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-form-recognizer-container-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-form-recognizer-container-support/</link>
+      <title>Public Preview: Form Recognizer container support </title>
+      <description>Announcing the public preview release of Form Recognizer containers. Form Recognizer is now also available in the following docker containers - Layout, Business Card, ID Document, Receipt, Invoice and Custom containers for you to run locally.</description>
+      <pubDate>Tue, 06 Jul 2021 18:31:41 Z</pubDate>
+      <atom:content
+        type="text">Announcing the public preview release of Form Recognizer containers. Form Recognizer is now also available in the following docker containers - Layout, Business Card, ID Document, Receipt, Invoice and Custom containers for you to run locally.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">virtual-machine-vm-bursting-is-now-generally-available-on-more-vm-types</guid>
+      <link>https://azure.microsoft.com/en-us/updates/virtual-machine-vm-bursting-is-now-generally-available-on-more-vm-types/</link>
+      <title>Virtual Machine (VM) bursting is now generally available on more VM types</title>
+      <description>Virtual Machine (VM) bursting is now available for the following virtual machines: Dsv4, Dasv4, Ddsv4, Esv4, Easv4, Edsv4, Fsv2 and B-series virtual machines. VM bursting enables customers’ workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision their virtual machine.</description>
+      <pubDate>Tue, 06 Jul 2021 16:00:45 Z</pubDate>
+      <atom:content
+        type="text">Virtual Machine (VM) bursting is now available for the following virtual machines: Dsv4, Dasv4, Ddsv4, Esv4, Easv4, Edsv4, Fsv2 and B-series virtual machines. VM bursting enables customers’ workloads to handle unforeseen disk traffic spikes smoothly without the need to overprovision their virtual machine.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">update-powershell-versions-70-and-71-to-protect-against-a-vulnerability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/update-powershell-versions-70-and-71-to-protect-against-a-vulnerability/</link>
+      <category>Azure PowerShell</category>
+      <title>Update PowerShell versions 7.0 and 7.1 to protect against a remote code execution vulnerability</title>
+      <description>If you manage your Azure resources from PowerShell, update versions 7.0 and 7.1 of PowerShell as soon as possible.</description>
+      <pubDate>Thu, 01 Jul 2021 22:10:36 Z</pubDate>
+      <atom:content
+        type="text">If you manage your Azure resources from PowerShell, update versions 7.0 and 7.1 of PowerShell as soon as possible.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-version-2107-expected-on-july-21-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2107-expected-on-july-21-2021/</link>
+      <title>General availability: Azure Sphere version 21.07 expected on July 21, 2021</title>
+      <description>Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing.</description>
+      <pubDate>Thu, 01 Jul 2021 21:00:26 Z</pubDate>
+      <atom:content
+        type="text">Participate in the retail evaluation now to ensure full compatibility. The 21.07 OS evaluation period provides 21 days for backward compatibility testing.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">asc-june2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/asc-june2021/</link>
+      <category>security</category>
+      <category>AzurePortal</category>
+      <category>asc</category>
+      <category>AzureSecurityCenter</category>
+      <category>security center</category>
+      <category>azure security center</category>
+      <title>General availability: Azure Security Center updates for June 2021</title>
+      <description>New enhancements and updates released in Azure Security Center in June 2021.</description>
+      <pubDate>Thu, 01 Jul 2021 18:15:24 Z</pubDate>
+      <atom:content
+        type="text">New enhancements and updates released in Azure Security Center in June 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">iot-hub-dps-skip-pop</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iot-hub-dps-skip-pop/</link>
+      <title>General availability: Skip X.509 certificate proof of possession for IoT Hub and DPS</title>
+      <description>To make it easier to get started with X.509 authentication with IoT Hub and Device Provisioning Services (DPS), we're removing the requirement to prove possession of uploaded certificates.</description>
+      <pubDate>Thu, 01 Jul 2021 17:00:28 Z</pubDate>
+      <atom:content
+        type="text">To make it easier to get started with X.509 authentication with IoT Hub and Device Provisioning Services (DPS), we're removing the requirement to prove possession of uploaded certificates.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">soft-delete-for-blobs-for-azure-data-lake-storage-is-now-in-limited-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/soft-delete-for-blobs-for-azure-data-lake-storage-is-now-in-limited-public-preview/</link>
+      <title>Soft delete for blobs capability for Azure Data Lake Storage is now in limited public preview</title>
+      <description>If you have processes or tools to detect accidental deletion of files and directories for your Azure Data Lake Storage accounts, you can now also restore the deleted objects using soft delete for blobs capability. During the retention period that you specify, you can now restore a soft-deleted object to its state at the time it was deleted.
+</description>
+      <pubDate>Wed, 30 Jun 2021 22:42:28 Z</pubDate>
+      <atom:content
+        type="text">If you have processes or tools to detect accidental deletion of files and directories for your Azure Data Lake Storage accounts, you can now also restore the deleted objects using soft delete for blobs capability. During the retention period that you specify, you can now restore a soft-deleted object to its state at the time it was deleted.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-maps-android-sdk-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-maps-android-sdk-is-now-generally-available/</link>
+      <title>Azure Maps Android SDK is now generally available</title>
+      <description>Get started with Android map control using vector map libraries, now generally available with Azure Maps Android SDK.</description>
+      <pubDate>Wed, 30 Jun 2021 16:00:23 Z</pubDate>
+      <atom:content
+        type="text">Get started with Android map control using vector map libraries, now generally available with Azure Maps Android SDK.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-image-builder-service-now-generally-available-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-image-builder-service-now-generally-available-2/</link>
+      <title>Azure Image Builder Service now generally available</title>
+      <description>Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools.</description>
+      <pubDate>Wed, 30 Jun 2021 16:00:13 Z</pubDate>
+      <atom:content
+        type="text">Use Azure Image Builder to streamline your image building pipeline and integrate your DevOps application life-cycle with the cloud native tools.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">vpn-nat-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/vpn-nat-in-public-preview/</link>
+      <title>VPN NAT now in public preview</title>
+      <description>Azure VPN Gateway NAT (Network Address Translation) can be used to connect on-premises networks or branch offices to an Azure virtual network with overlapping IP addresses.</description>
+      <pubDate>Wed, 30 Jun 2021 15:31:51 Z</pubDate>
+      <atom:content
+        type="text">Azure VPN Gateway NAT (Network Address Translation) can be used to connect on-premises networks or branch offices to an Azure virtual network with overlapping IP addresses.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">new-azure-confidential-virtual-machines-sgx</guid>
+      <link>https://azure.microsoft.com/en-us/updates/new-azure-confidential-virtual-machines-sgx/</link>
+      <title>Limited Preview: New Azure VMs for confidential workloads</title>
+      <description>New DCsv3 and DCdsv3-series Azure Virtual Machines transform the state-of-the-art for confidential workloads</description>
+      <pubDate>Tue, 29 Jun 2021 17:00:07 Z</pubDate>
+      <atom:content
+        type="text">New DCsv3 and DCdsv3-series Azure Virtual Machines transform the state-of-the-art for confidential workloads</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">automanage-arc</guid>
+      <link>https://azure.microsoft.com/en-us/updates/automanage-arc/</link>
+      <title>Public preview: Azure Automanage now supports Arc enabled servers</title>
+      <description>Now you can automatically onboard your Arc enabled servers to best practice Azure management services using Azure Automanage, saving time and manual management effort.</description>
+      <pubDate>Tue, 29 Jun 2021 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">Now you can automatically onboard your Arc enabled servers to best practice Azure management services using Azure Automanage, saving time and manual management effort.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">expansion-of-the-public-preview-of-ondemand-disk-bursting-for-premium-ssd-to-more-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/expansion-of-the-public-preview-of-ondemand-disk-bursting-for-premium-ssd-to-more-regions/</link>
+      <category>Disk</category>
+      <category>block storage</category>
+      <category>performance</category>
+      <category>bursting</category>
+      <title>Expansion of the public preview of on-demand disk bursting for Premium SSD to more regions</title>
+      <description>The preview of on-demand disk bursting for Premium SSDs P30 and greater (lager than 512 GiB) is now expanded to all production regions.</description>
+      <pubDate>Mon, 28 Jun 2021 16:00:43 Z</pubDate>
+      <atom:content
+        type="text">The preview of on-demand disk bursting for Premium SSDs P30 and greater (lager than 512 GiB) is now expanded to all production regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">automating-audio-file-transcription-through-ingestion-client</guid>
+      <link>https://azure.microsoft.com/en-us/updates/automating-audio-file-transcription-through-ingestion-client/</link>
+      <title>Introducing the Ingestion Client for Azure Speech</title>
+      <description>Ingestion Client in conjunction with Azure Speech allows customers to transcribe audio files without any development effort. Whether you have few or millions of file Azure will transcribe those securely and quickly. </description>
+      <pubDate>Mon, 28 Jun 2021 14:00:42 Z</pubDate>
+      <atom:content
+        type="text">Ingestion Client in conjunction with Azure Speech allows customers to transcribe audio files without any development effort. Whether you have few or millions of file Azure will transcribe those securely and quickly. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-netapp-files-regional-capacity-quota</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-netapp-files-regional-capacity-quota/</link>
+      <title>Azure NetApp Files | Regional Capacity Quota </title>
+      <description>We're changing the regional capacity quota for Azure NetApp files at no additional cost to you.</description>
+      <pubDate>Fri, 25 Jun 2021 00:18:56 Z</pubDate>
+      <atom:content
+        type="text">We're changing the regional capacity quota for Azure NetApp files at no additional cost to you.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">adding-context-to-iot-data-just-became-easier</guid>
+      <link>https://azure.microsoft.com/en-us/updates/adding-context-to-iot-data-just-became-easier/</link>
+      <category>Azure Digital Twins</category>
+      <category>Azure Data Explorer</category>
+      <title>General availability: Azure Digital Twins plugin for Azure Data Explorer </title>
+      <description>Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data.</description>
+      <pubDate>Thu, 24 Jun 2021 18:46:54 Z</pubDate>
+      <atom:content
+        type="text">Adding context to IoT data just became easier. Azure Digital Twins and Azure Data Explorer now seamlessly integrate, allowing you to allow you to contextualize time-series IoT data.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">turn-your-phone-into-an-iot-device</guid>
+      <link>https://azure.microsoft.com/en-us/updates/turn-your-phone-into-an-iot-device/</link>
+      <title>General availability: Turn your phone into an IoT device with the new IoT Plug and Play mobile app</title>
+      <description>Use the IoT Plug and Play phone app as an IoT device to get started quickly with IoT Central or IoT Hub.</description>
+      <pubDate>Thu, 24 Jun 2021 17:00:03 Z</pubDate>
+      <atom:content
+        type="text">Use the IoT Plug and Play phone app as an IoT device to get started quickly with IoT Central or IoT Hub.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-devops-updates-for-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-updates-for-june-2021/</link>
+      <category>Azure DevOps</category>
+      <title>General availability: Azure DevOps updates for June 2021</title>
+      <description>With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. </description>
+      <pubDate>Thu, 24 Jun 2021 17:00:03 Z</pubDate>
+      <atom:content
+        type="text">With this update, we've added a new set of policies which can be used to restrict the scope and lifespan of your organization’s Azure DevOps personal access tokens. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cognitive-services-text-analytics-for-health</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cognitive-services-text-analytics-for-health/</link>
+      <title>General availability: Azure Cognitive Services Text Analytics for Health</title>
+      <description>Now generally available, use Text Analytics for Health to detect words and phrases mentioned in unstructured text as entities in the healthcare and biomedical domain. </description>
+      <pubDate>Thu, 24 Jun 2021 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">Now generally available, use Text Analytics for Health to detect words and phrases mentioned in unstructured text as entities in the healthcare and biomedical domain. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-container-registry-now-available-in-west-us-3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-container-registry-now-available-in-west-us-3/</link>
+      <title>Azure Container Registry is now available in West US 3</title>
+      <description>Azure Container Registry is now generally available in West US 3 region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification.
+</description>
+      <pubDate>Wed, 23 Jun 2021 22:02:42 Z</pubDate>
+      <atom:content
+        type="text">Azure Container Registry is now generally available in West US 3 region. Azure Container Registry handles private Docker container images as well as related content formats, such as Helm charts, OCI artifacts, and images built to the OCI image format specification.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sphere-os-version-2106-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sphere-os-version-2106-is-now-generally-available/</link>
+      <title>Azure Sphere OS version 21.06 is now generally available</title>
+      <description>This quality release of the OS includes bug fixes for apps using SPI Flash.</description>
+      <pubDate>Wed, 23 Jun 2021 21:13:07 Z</pubDate>
+      <atom:content
+        type="text">This quality release of the OS includes bug fixes for apps using SPI Flash.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-maps-mobility-services-preview-retirement</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-maps-mobility-services-preview-retirement/</link>
+      <title>Azure Maps Mobility Services Preview will be retired on 5 October 2021</title>
+      <description>Transition to Bing Maps Routes API and/or Moovit Public Transit API’s by 5 October 2021</description>
+      <pubDate>Wed, 23 Jun 2021 20:05:16 Z</pubDate>
+      <atom:content
+        type="text">Transition to Bing Maps Routes API and/or Moovit Public Transit API’s by 5 October 2021</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-data-lake-storage-gen1-account-creation-will-be-blocked-for-new-customers-from-july-1-2021-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-gen1-account-creation-will-be-blocked-for-new-customers-from-july-1-2021-2/</link>
+      <title>Azure Data Lake Storage Gen1: Account creation will be blocked for new customers starting July 5, 2021 </title>
+      <description>Take advantage of Azure Data Lake Storage Gen 2 for all of your analytic needs after July 5, 2021.</description>
+      <pubDate>Wed, 23 Jun 2021 19:29:02 Z</pubDate>
+      <atom:content
+        type="text">Take advantage of Azure Data Lake Storage Gen 2 for all of your analytic needs after July 5, 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-blob-storage-nfs-30-protocol-support-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-blob-storage-nfs-30-protocol-support-generally-available/</link>
+      <title>Azure Blob storage—NFS 3.0 protocol support generally available </title>
+      <description>Azure Blob Storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with object storage economics. With multi-protocol support, customers can run their applications on a single storage platform with no application rewrites necessary, therefore eliminating data silos.</description>
+      <pubDate>Wed, 23 Jun 2021 18:00:30 Z</pubDate>
+      <atom:content
+        type="text">Azure Blob Storage is the only storage platform that supports NFS 3.0 protocol over object storage natively (no gateway or data copying required), with object storage economics. With multi-protocol support, customers can run their applications on a single storage platform with no application rewrites necessary, therefore eliminating data silos.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-expansion-of-creditbased-disk-bursting-to-azure-standard-ssds-e30-and-smaller/</link>
+      <category>block storage</category>
+      <category>bursting</category>
+      <category>performance</category>
+      <category>disks</category>
+      <title>General availability: Expansion of credit-based disk bursting to Azure Standard SSDs E30 and smaller</title>
+      <description>Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller.</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:50 Z</pubDate>
+      <atom:content
+        type="text">Credit-based disk bursting, which allows you to handle unexpected disk traffic and batch jobs smoothly without the need to overprovision your disk, is now available on Azure Standard SSDs E30 and smaller.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-hyperscale-citus-now-offers-server-group-restart-feature-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-offers-server-group-restart-feature-in-public-preview/</link>
+      <title>Azure Database for PostgreSQL – Hyperscale (Citus) now offers server group restart feature in public preview</title>
+      <description>The restart server group capability is now available in preview for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the Postgres open-source database on Azure.</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:50 Z</pubDate>
+      <atom:content
+        type="text">The restart server group capability is now available in preview for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the Postgres open-source database on Azure.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-public-preview-updates-for-late-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2021/</link>
+      <category>SQL DB</category>
+      <category>SQL MI</category>
+      <title>Azure SQL—public preview updates for late June 2021 </title>
+      <description>Public preview enhancements and updates released for Azure SQL in late June 2021.</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:49 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in late June 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-announcements-for-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-announcements-for-june-2021/</link>
+      <title>Azure Machine Learning public preview announcements for June 2021</title>
+      <description>New features include data scientist built-in role, text classification labeling, and environments UI.</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:49 Z</pubDate>
+      <atom:content
+        type="text">New features include data scientist built-in role, text classification labeling, and environments UI.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-late-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-june-2021/</link>
+      <category>Azure SQL DB</category>
+      <category>Azure SQL MI</category>
+      <title>Azure SQL—general availability updates for late June 2021 </title>
+      <description>General availability enhancements and updates released for Azure SQL in late June 2021</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:49 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in late June 2021</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">full-text-query-in-diagnostics-logs-for-azure-cosmos-db-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/full-text-query-in-diagnostics-logs-for-azure-cosmos-db-in-general-availability/</link>
+      <title>Full text query in diagnostics logs for Azure Cosmos DB in general availability</title>
+      <description>Use self-serve to enable/disable full text query to deobfuscate your queries in diagnostic logs with the full-text query for Azure Cosmos DB feature.</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:48 Z</pubDate>
+      <atom:content
+        type="text">Use self-serve to enable/disable full text query to deobfuscate your queries in diagnostic logs with the full-text query for Azure Cosmos DB feature.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-iot-edge-for-linux-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-iot-edge-for-linux-now-generally-available/</link>
+      <title>Azure IoT Edge for Linux now generally available</title>
+      <description>Leverage existing Windows expertise and seamlessly connect Azure IoT Edge for Linux on Windows devices to Microsoft Azure and quickly bring cloud intelligence to your edge.</description>
+      <pubDate>Wed, 23 Jun 2021 16:00:46 Z</pubDate>
+      <atom:content
+        type="text">Leverage existing Windows expertise and seamlessly connect Azure IoT Edge for Linux on Windows devices to Microsoft Azure and quickly bring cloud intelligence to your edge.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-flexible-server-forced-failover-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-forced-failover-in-public-preview/</link>
+      <title>Azure Database for PostgreSQL – Flexible Server: Forced failover in public preview</title>
+      <description>Forced failover capability is available in preview in all zone redundant regions on Flexible Server for Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. </description>
+      <pubDate>Wed, 23 Jun 2021 16:00:29 Z</pubDate>
+      <atom:content
+        type="text">Forced failover capability is available in preview in all zone redundant regions on Flexible Server for Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">akv-managed-hsm-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/akv-managed-hsm-ga/</link>
+      <title>Azure Key Vault Managed HSM is generally available</title>
+      <description>Azure Key Vault Managed HSM (hardware security module) is now generally available. Managed HSM offers a fully managed, highly available, single-tenant, high-throughput, standards-compliant cloud service to safeguard cryptographic keys for your cloud applications, using FIPS 140-2 Level 3 validated HSMs.
+</description>
+      <pubDate>Mon, 21 Jun 2021 18:00:20 Z</pubDate>
+      <atom:content
+        type="text">Azure Key Vault Managed HSM (hardware security module) is now generally available. Managed HSM offers a fully managed, highly available, single-tenant, high-throughput, standards-compliant cloud service to safeguard cryptographic keys for your cloud applications, using FIPS 140-2 Level 3 validated HSMs.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">wafdrs2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/wafdrs2/</link>
+      <title>Public preview of Default Rule Set 2.0 for Azure Web Application Firewall </title>
+      <description>Increase your security posture and reduce false positives with the Default Rule Set 2.0, now in public preview for Azure Web Application Firewall. </description>
+      <pubDate>Fri, 18 Jun 2021 23:39:33 Z</pubDate>
+      <atom:content
+        type="text">Increase your security posture and reduce false positives with the Default Rule Set 2.0, now in public preview for Azure Web Application Firewall. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-data-explorer-adds-new-geospatial-capabilities</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities/</link>
+      <category>kusto</category>
+      <title>General availability: Azure Data Explorer adds new geospatial capabilities</title>
+      <description>The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer.</description>
+      <pubDate>Fri, 18 Jun 2021 16:00:12 Z</pubDate>
+      <atom:content
+        type="text">The new support for H3 based geospatial clustering in KQL enables users to visualize and explore spatial data stored in Azure Data Explorer.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-blob-index-tags-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-blob-index-tags-now-generally-available/</link>
+      <category>azure blob storage</category>
+      <title>Azure Blob index tags now generally available</title>
+      <description>Azure Blob index tags now generally available. Blob index tags allows developers and IT Pros to first tag specific blobs (for example, StoreID = "1234") and then filter or query for all blobs to more easily find or use them.</description>
+      <pubDate>Thu, 17 Jun 2021 17:00:25 Z</pubDate>
+      <atom:content
+        type="text">Azure Blob index tags now generally available. Blob index tags allows developers and IT Pros to first tag specific blobs (for example, StoreID = "1234") and then filter or query for all blobs to more easily find or use them.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">gacrossregionrestoresqlsaphana</guid>
+      <link>https://azure.microsoft.com/en-us/updates/gacrossregionrestoresqlsaphana/</link>
+      <category>#AzureBackup #Databases #SQL #SAPHANA</category>
+      <title>General availability: Cross region Restore of SQL/SAP HANA running in Azure VM</title>
+      <description>General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios.</description>
+      <pubDate>Thu, 17 Jun 2021 16:54:40 Z</pubDate>
+      <atom:content
+        type="text">General availability of Cross Region Restore of SQL/SAP HANA databases running in Azure VM allows to restore data in the secondary region for compliance/audit and outage scenarios.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-maintenance-control-for-vmss-os-image-upgrades</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-maintenance-control-for-vmss-os-image-upgrades/</link>
+      <title>General availability: Maintenance control for Virtual Machine Scale Sets OS image upgrades</title>
+      <description>Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place.</description>
+      <pubDate>Thu, 17 Jun 2021 16:50:37 Z</pubDate>
+      <atom:content
+        type="text">Take control of OS image upgrades on your virtual machine scale sets by using the new maintenance control feature. Now you can update at the time chosen by you with all the safety checks in place.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">adx-vnet-subnetdelegation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/adx-vnet-subnetdelegation/</link>
+      <category>Azure Data Explorer</category>
+      <title>General availability: Azure Data Explorer and subnet delegation</title>
+      <description>Injecting an Azure Data Explorer cluster into a virtual network has never been easier.</description>
+      <pubDate>Thu, 17 Jun 2021 16:00:24 Z</pubDate>
+      <atom:content
+        type="text">Injecting an Azure Data Explorer cluster into a virtual network has never been easier.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-data-lake-storage-static-website-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-data-lake-storage-static-website-is-now-generally-available/</link>
+      <title>Azure Data Lake Storage static website is now generally available</title>
+      <description>Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website.</description>
+      <pubDate>Wed, 16 Jun 2021 17:00:11 Z</pubDate>
+      <atom:content
+        type="text">Directly host static content from Azure Data Lake Storage and view that content from a browser by using the public URL of that website.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-alerts-based-smart-detection-for-application-insights</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-alerts-based-smart-detection-for-application-insights/</link>
+      <category>Application Insights</category>
+      <title>Public preview: Alerts based smart detection for Application Insights</title>
+      <description>Get your anomaly detections as alerts, manage smart detection using alert rules, and configure notifications for smart detection alerts using action groups. </description>
+      <pubDate>Wed, 16 Jun 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Get your anomaly detections as alerts, manage smart detection using alert rules, and configure notifications for smart detection alerts using action groups. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-new-azure-private-mec-solution-announced</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-azure-private-mec-solution-announced/</link>
+      <title>New Azure private MEC solution announced</title>
+      <description>Azure private multi-access edge compute (MEC) enables operators and systems integrators to simplify the consumption of secure and private 5G networks, and to easily deliver ultra-low-latency networking, applications, and services at the enterprise edge.</description>
+      <pubDate>Wed, 16 Jun 2021 14:00:09 Z</pubDate>
+      <atom:content
+        type="text">Azure private multi-access edge compute (MEC) enables operators and systems integrators to simplify the consumption of secure and private 5G networks, and to easily deliver ultra-low-latency networking, applications, and services at the enterprise edge.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-confidential-computing-available-in-australia</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-confidential-computing-available-in-australia/</link>
+      <title>Azure Virtual Machines DCsv2-series are now available in Australia</title>
+      <description>Confidential computing DCsv2-series virtual machines (VMs) are now available in Australia</description>
+      <pubDate>Tue, 15 Jun 2021 18:15:40 Z</pubDate>
+      <atom:content
+        type="text">Confidential computing DCsv2-series virtual machines (VMs) are now available in Australia</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-iot-central-new-and-updated-features-may-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-iot-central-new-and-updated-features-may-2021/</link>
+      <title>General availability: Azure IoT Central new and updated features—May 2021</title>
+      <description>May updates include device template DTDL editing, displaying external content on dashboards, other UI and doc enhancements, and CDE parity with CDE v1.</description>
+      <pubDate>Tue, 15 Jun 2021 18:06:13 Z</pubDate>
+      <atom:content
+        type="text">May updates include device template DTDL editing, displaying external content on dashboards, other UI and doc enhancements, and CDE parity with CDE v1.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">microsoft-azure-generally-available-from-new-cloud-regions-in-arizona</guid>
+      <link>https://azure.microsoft.com/en-us/updates/microsoft-azure-generally-available-from-new-cloud-regions-in-arizona/</link>
+      <title>Microsoft Azure available from new cloud regions in Arizona</title>
+      <description>Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. </description>
+      <pubDate>Tue, 15 Jun 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Azure is now available from our newest sustainable datacenter region West US 3 in Arizona. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-agent-and-data-collection-rules-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-agent-and-data-collection-rules-now-generally-available/</link>
+      <title>Azure Monitor Agent and Data Collection Rules now generally available</title>
+      <description>Start using or migrating to the new Azure Monitor Agent and Data Collection Rules in your production environments to leverage key new capabilities and save on ingestion costs. With support for private links and direct proxies coming soon, you would be able to use these features without compromising on your networking requirements.</description>
+      <pubDate>Tue, 15 Jun 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Start using or migrating to the new Azure Monitor Agent and Data Collection Rules in your production environments to leverage key new capabilities and save on ingestion costs. With support for private links and direct proxies coming soon, you would be able to use these features without compromising on your networking requirements.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-data-factory-announces-general-availability-for-sql-server-in-data-flows</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-data-factory-announces-general-availability-for-sql-server-in-data-flows/</link>
+      <title>General availability: Support for SQL Server in data flows using Azure Data Factory &amp; Azure Synapse</title>
+      <description>SQL Server is now available as a data flow source sink from your on-premises and VM-based instances in ADF and Synapse Analytics.</description>
+      <pubDate>Mon, 14 Jun 2021 22:23:56 Z</pubDate>
+      <atom:content
+        type="text">SQL Server is now available as a data flow source sink from your on-premises and VM-based instances in ADF and Synapse Analytics.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-dev-spaces-retired-on-may-15-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-dev-spaces-retired-on-may-15-2021/</link>
+      <title>Azure Dev Spaces retired on May 15, 2021</title>
+      <description>Take advantage of Bridge for Kubernetes for development scenarios that Azure Dev Spaces previously supported.</description>
+      <pubDate>Mon, 14 Jun 2021 16:00:26 Z</pubDate>
+      <atom:content
+        type="text">Take advantage of Bridge for Kubernetes for development scenarios that Azure Dev Spaces previously supported.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">call-recording-for-azure-communication-services-coming-soon</guid>
+      <link>https://azure.microsoft.com/en-us/updates/call-recording-for-azure-communication-services-coming-soon/</link>
+      <title>Call recording for Azure Communication Services coming soon</title>
+      <description>Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. </description>
+      <pubDate>Mon, 14 Jun 2021 16:00:19 Z</pubDate>
+      <atom:content
+        type="text">Call recording for Azure Communication Services helps to simplify and improve the recording process during calls. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">direct-routing-for-azure-communication-services-coming-soon</guid>
+      <link>https://azure.microsoft.com/en-us/updates/direct-routing-for-azure-communication-services-coming-soon/</link>
+      <title>Direct routing for Azure Communication Services coming soon</title>
+      <description>Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. </description>
+      <pubDate>Mon, 14 Jun 2021 16:00:11 Z</pubDate>
+      <atom:content
+        type="text">Developers will be able to use or extend their existing telephony infrastructure to the calling capabilities they build with Azure Communication Services. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-maps-elevation-service-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-maps-elevation-service-is-now-generally-available/</link>
+      <category>Azure Maps</category>
+      <title>Azure Maps Elevation API is now in general availability</title>
+      <description>For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level.</description>
+      <pubDate>Fri, 11 Jun 2021 23:19:55 Z</pubDate>
+      <atom:content
+        type="text">For any given point on the Earth surface, the Elevation API returns its elevation measured from mean sea level.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">five-more-free-services-available-with-an-azure-free-account</guid>
+      <link>https://azure.microsoft.com/en-us/updates/five-more-free-services-available-with-an-azure-free-account/</link>
+      <category>Free Account</category>
+      <title>Five more free services available with an Azure free account</title>
+      <description>We've added the option to use Azure Database for PostgreSQL, Azure Database for MySQL, Azure Key Vault, Azure Logic Apps, and the Encoding feature of Azure Media Services to services included with free accounts.</description>
+      <pubDate>Fri, 11 Jun 2021 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">We've added the option to use Azure Database for PostgreSQL, Azure Database for MySQL, Azure Key Vault, Azure Logic Apps, and the Encoding feature of Azure Media Services to services included with free accounts.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">iot-edge-azure-monitor-pp</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iot-edge-azure-monitor-pp/</link>
+      <title>Azure IoT Edge integration with Azure Monitor is now in public preview</title>
+      <description>Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient.</description>
+      <pubDate>Thu, 10 Jun 2021 17:00:11 Z</pubDate>
+      <atom:content
+        type="text">Monitoring and troubleshooting your Azure IoT Edge devices just became more simple and efficient.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">dcsv2-vms-pricing-reduction</guid>
+      <link>https://azure.microsoft.com/en-us/updates/dcsv2-vms-pricing-reduction/</link>
+      <title>General availability: Confidential Computing price reduction on DCsv2 virtual machines</title>
+      <description>DCsv2-series Azure Virtual Machines protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. The price for this offering is now 37% lower.</description>
+      <pubDate>Thu, 10 Jun 2021 16:48:17 Z</pubDate>
+      <atom:content
+        type="text">DCsv2-series Azure Virtual Machines protect the confidentiality and integrity of your data and code while it’s processed in the public cloud. The price for this offering is now 37% lower.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-os-version-2106-expected-on-june-23</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2106-expected-on-june-23/</link>
+      <title>General availability: Azure Sphere OS version 21.06 expected on June 23</title>
+      <description>Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.</description>
+      <pubDate>Thu, 10 Jun 2021 15:04:41 Z</pubDate>
+      <atom:content
+        type="text">Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-6-new-locales-added-to-speech-service-to-support-speech-transcription</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-6-new-locales-added-to-speech-service-to-support-speech-transcription/</link>
+      <title>General availability: 6 new Locales added to Speech service to support speech transcription</title>
+      <description>Speech service has added Speech to Text support for 6 new languages and locales.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:43 Z</pubDate>
+      <atom:content
+        type="text">Speech service has added Speech to Text support for 6 new languages and locales.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-defender-for-azure-database-for-mysql-single-server-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-mysql-single-server-now-generally-available/</link>
+      <title>Azure Defender for Azure Database for MySQL – Single Server now generally available</title>
+      <description>Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MySQL. </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MySQL. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-defender-for-azure-database-for-postgresql-single-server-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-defender-for-azure-database-for-postgresql-single-server-in-general-availability/</link>
+      <title>Azure Defender for Azure Database for PostgreSQL – Single Server in general availability </title>
+      <description>Azure Defender provides security alerts for anomalous activities so that you can detect potential threats and respond to them as they occur.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">Azure Defender provides security alerts for anomalous activities so that you can detect potential threats and respond to them as they occur.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-mariadb-azure-defender-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-azure-defender-in-general-availability/</link>
+      <title>Azure Database for MariaDB Azure Defender in general availability</title>
+      <description>Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MariaDB. </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">Azure Defender detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit your Azure Database for MariaDB. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-mariadb-planned-maintenance-notifications-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-planned-maintenance-notifications-in-general-availability/</link>
+      <title>Azure Database for MariaDB: Planned Maintenance Notifications in general availability</title>
+      <description>Set up alerts today on the Azure portal to be notified about planned deployments for Azure Database for MariaDB.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:41 Z</pubDate>
+      <atom:content
+        type="text">Set up alerts today on the Azure portal to be notified about planned deployments for Azure Database for MariaDB.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-single-server-planned-maintenance-notifications-in-general-availability/</link>
+      <title>Azure Database for MySQL – Single Server: Planned maintenance notifications in general availability</title>
+      <description>Setup alerts on the Azure portal to be notified about planned deployments with planned maintenance notifications for Azure Database for MySQL – Single Server.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:41 Z</pubDate>
+      <atom:content
+        type="text">Setup alerts on the Azure portal to be notified about planned deployments with planned maintenance notifications for Azure Database for MySQL – Single Server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-public-preview-updates-for-early-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-june-2021/</link>
+      <title>Azure SQL: Public preview updates for early June 2021</title>
+      <description>Public preview enhancements and updates released for Azure SQL in early June 2021</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:40 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in early June 2021</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-early-june-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-june-2021/</link>
+      <title>Azure SQL: General availability updates for early June 2021 </title>
+      <description>General availability enhancements and updates released for Azure SQL in early June 2021</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:40 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in early June 2021</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-mysql-flexible-server-standby-server-selection-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-flexible-server-standby-server-selection-in-public-preview/</link>
+      <title>Azure Database for MySQL – Flexible Server standby server selection in public preview</title>
+      <description>Select your standby server zone for Azure Database for MySQL - Flexible Server.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:40 Z</pubDate>
+      <atom:content
+        type="text">Select your standby server zone for Azure Database for MySQL - Flexible Server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-hyperscale-citus-now-compliant-with-additional-certifications</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-hyperscale-citus-now-compliant-with-additional-certifications/</link>
+      <title>Azure Database for PostgreSQL - Hyperscale (Citus) now compliant with additional certifications</title>
+      <description>New certifications are now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:39 Z</pubDate>
+      <atom:content
+        type="text">New certifications are now available for Hyperscale (Citus) on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-single-server-planned-maintenance-notifications-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-planned-maintenance-notifications-in-general-availability/</link>
+      <title>Azure Database for PostgreSQL – Single Server: Planned Maintenance Notifications in general availability</title>
+      <description>Set up alerts on the Azure portal to be notified about planned deployments for Azure Database for PostgreSQL – Single Server, a managed service running the open-source Postgres database.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:39 Z</pubDate>
+      <atom:content
+        type="text">Set up alerts on the Azure portal to be notified about planned deployments for Azure Database for PostgreSQL – Single Server, a managed service running the open-source Postgres database.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-application-insights-nodejs-preaggregated-standard-metrics</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-application-insights-nodejs-preaggregated-standard-metrics/</link>
+      <category>Application Insights</category>
+      <title>General availability: Application Insights Node.js pre-aggregated standard metrics</title>
+      <description>Azure Monitor Application Insights Node.js SDK adds pre-aggregated standard metrics to enhance accuracy of alerts when telemetry sampling is enabled.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:38 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor Application Insights Node.js SDK adds pre-aggregated standard metrics to enhance accuracy of alerts when telemetry sampling is enabled.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-syslog-event-collection-from-azure-monitor-agent-for-linux-distros</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-syslog-event-collection-from-azure-monitor-agent-for-linux-distros/</link>
+      <title>Public preview: Syslog event collection from Azure Monitor Agent for Linux distros</title>
+      <description>Upgrade to Azure Monitor Agent for Linux version 1.10 or above to enable syslog data collection using data collection rules for your Linux machines. </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:38 Z</pubDate>
+      <atom:content
+        type="text">Upgrade to Azure Monitor Agent for Linux version 1.10 or above to enable syslog data collection using data collection rules for your Linux machines. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-enterprisescale-landing-zone-reference-implementation-for-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-enterprisescale-landing-zone-reference-implementation-for-aks/</link>
+      <title>General availability: Enterprise-scale landing zone reference implementation for AKS</title>
+      <description>Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">Rapidly adopt Azure Kubernetes Service (AKS) using industry-proven practices.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-cache-for-redis-zone-redundancy-for-premium-tier-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-cache-for-redis-zone-redundancy-for-premium-tier-now-generally-available/</link>
+      <title>Azure Cache for Redis zone redundancy for Premium tier now generally available</title>
+      <description>Azure Cache for Redis zone redundancy allows you to deploy your Premium tier caches across multiple availability zones, delivering higher availability and resiliency.  </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">Azure Cache for Redis zone redundancy allows you to deploy your Premium tier caches across multiple availability zones, delivering higher availability and resiliency.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-migrate-private-endpoint-support-available-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-migrate-private-endpoint-support-available-in-public-preview/</link>
+      <title>Azure Migrate private endpoint support available in public preview</title>
+      <description>Secure your connection to Azure Migrate services with Azure Migrate Private Link.  </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">Secure your connection to Azure Migrate services with Azure Migrate Private Link.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-flexible-server-support-for-postgres-13-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-support-for-postgres-13-public-preview/</link>
+      <category>Postgres</category>
+      <title>Azure Database for PostgreSQL - Flexible Server: Support for Postgres 13 (public preview) </title>
+      <description>Create new Flexible Servers using PostgreSQL 13 version for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure. </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">Create new Flexible Servers using PostgreSQL 13 version for Azure Database for PostgreSQL, a managed service running the open source Postgres database on Azure. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">open-source-api-portal-now-generally-availabile</guid>
+      <link>https://azure.microsoft.com/en-us/updates/open-source-api-portal-now-generally-availabile/</link>
+      <title>Open source API portal now generally availabile</title>
+      <description>You can create and publish a customized site with API documentation, automatically generated from OpenAPI files. </description>
+      <pubDate>Wed, 09 Jun 2021 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">You can create and publish a customized site with API documentation, automatically generated from OpenAPI files. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-flexible-server-supports-postgresql-minor-versions-public-preview/</link>
+      <category>Postgres</category>
+      <title>Azure Database for PostgreSQL – Flexible Server supports PostgreSQL minor versions (public preview)</title>
+      <description>Benefit from the latest PostgreSQL minor versions that include many security updates and bug fixes for Azure Database for PostgreSQL – Flexible Server, a managed service running the open-source Postgres database.</description>
+      <pubDate>Wed, 09 Jun 2021 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">Benefit from the latest PostgreSQL minor versions that include many security updates and bug fixes for Azure Database for PostgreSQL – Flexible Server, a managed service running the open-source Postgres database.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-update-in-policy-compliance-for-resource-type-policies</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-update-in-policy-compliance-for-resource-type-policies/</link>
+      <title>General availability: Update in Policy Compliance for Resource Type Policies</title>
+      <description>Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies.</description>
+      <pubDate>Mon, 07 Jun 2021 20:19:54 Z</pubDate>
+      <atom:content
+        type="text">Azure Policy built-in policies in which resource type is the only evaluation criterion (e.g. Allowed Resource Types, Disallowed Resource Types) have updated logic to provide a more accurate assessment of your overall environment when aggregated with other policies.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ab-tls-upgrade</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ab-tls-upgrade/</link>
+      <category>Azure Backup</category>
+      <title>Azure Backup: Upgrade to TLS 1.2 or above for secure MARS agent backups by September 1, 2021</title>
+      <description>Support for TLS 1.0 and 1.1 ends September 1, 2021, please upgrade to TLS 1.2 to ensure secure and uninterrupted backups using MARS agent</description>
+      <pubDate>Mon, 07 Jun 2021 16:00:09 Z</pubDate>
+      <atom:content
+        type="text">Support for TLS 1.0 and 1.1 ends September 1, 2021, please upgrade to TLS 1.2 to ensure secure and uninterrupted backups using MARS agent</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">grpricing</guid>
+      <link>https://azure.microsoft.com/en-us/updates/grpricing/</link>
+      <title>General availability: ExpressRoute Global Reach Pricing Reduction</title>
+      <description>ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower.</description>
+      <pubDate>Sat, 05 Jun 2021 04:00:40 Z</pubDate>
+      <atom:content
+        type="text">ExpressRoute Global Reach allows you to link ExpressRoute circuits together to make a private network between your on-premises networks. The data transfer price for this offering is now 50% lower.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">key-rotation-and-expiration-policies-for-azure-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/key-rotation-and-expiration-policies-for-azure-storage/</link>
+      <category>Security</category>
+      <title>General availability: Key Rotation and Expiration Policies for Azure Storage</title>
+      <description>Access Key Expiration and Policy support for Azure Storage Accounts</description>
+      <pubDate>Fri, 04 Jun 2021 21:30:36 Z</pubDate>
+      <atom:content
+        type="text">Access Key Expiration and Policy support for Azure Storage Accounts</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-maps-creator-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-maps-creator-is-now-generally-available/</link>
+      <title>Azure Maps Creator is now generally available</title>
+      <description>Azure Maps Creator provides an end-to-end solution for private indoor maps.</description>
+      <pubDate>Fri, 04 Jun 2021 18:10:34 Z</pubDate>
+      <atom:content
+        type="text">Azure Maps Creator provides an end-to-end solution for private indoor maps.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">now-available-pricing-changes-to-azure-sentinel-and-azure-monitor-to-help-you-reduce-costs</guid>
+      <link>https://azure.microsoft.com/en-us/updates/now-available-pricing-changes-to-azure-sentinel-and-azure-monitor-to-help-you-reduce-costs/</link>
+      <title>Now Available: Pricing changes to Azure Sentinel and Azure Monitor to help you reduce costs</title>
+      <description>Enjoy additional cost savings with the new price changes to Azure Sentinel and Azure monitor.  These changes took effect on June 2, 2021.</description>
+      <pubDate>Thu, 03 Jun 2021 16:06:36 Z</pubDate>
+      <atom:content
+        type="text">Enjoy additional cost savings with the new price changes to Azure Sentinel and Azure monitor.  These changes took effect on June 2, 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-identitybased-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-identitybased-connections-in-azure-functions-with-latest-azure-sdk-triggers-and-bindings/</link>
+      <title>Public preview: Identity-based connections in Azure Functions with latest Azure SDK triggers and bindings</title>
+      <description>Azure functions can now connect using an identity instead of a secret. </description>
+      <pubDate>Thu, 03 Jun 2021 16:00:19 Z</pubDate>
+      <atom:content
+        type="text">Azure functions can now connect using an identity instead of a secret. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-digita-twins-explorer-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-digita-twins-explorer-preview/</link>
+      <title>Azure Digital Twins Explorer available in public preview</title>
+      <description>Visual developer tool for exploring your digital twin is now available as a web application.</description>
+      <pubDate>Wed, 02 Jun 2021 17:00:06 Z</pubDate>
+      <atom:content
+        type="text">Visual developer tool for exploring your digital twin is now available as a web application.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-api-management-premium-tier-price-reduction-for-incremental-purchased-units</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-api-management-premium-tier-price-reduction-for-incremental-purchased-units/</link>
+      <title>General availability: Azure API Management Premium tier price reduction for incremental purchased units</title>
+      <description>After the first purchased unit, a price reduction of 50% will be applied on all subsequent units purchased. </description>
+      <pubDate>Wed, 02 Jun 2021 16:34:59 Z</pubDate>
+      <atom:content
+        type="text">After the first purchased unit, a price reduction of 50% will be applied on all subsequent units purchased. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">asc-may2021-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/asc-may2021-2/</link>
+      <category>security</category>
+      <category>AzurePortal</category>
+      <category>asc</category>
+      <category>AzureSecurityCenter</category>
+      <category>security center</category>
+      <category>azure security center</category>
+      <title>Azure Security Center: Public preview updates for May 2021</title>
+      <description>Public preview enhancements and updates released for Azure Security Center in May 2021.</description>
+      <pubDate>Wed, 02 Jun 2021 15:33:26 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure Security Center in May 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">asc-may2021-1</guid>
+      <link>https://azure.microsoft.com/en-us/updates/asc-may2021-1/</link>
+      <category>security</category>
+      <category>AzurePortal</category>
+      <category>asc</category>
+      <category>AzureSecurityCenter</category>
+      <category>security center</category>
+      <category>azure security center</category>
+      <title>Azure Security Center: General availability updates for May 2021</title>
+      <description>New enhancements and updates released for general availability (GA) in Azure Security Center in May 2021.</description>
+      <pubDate>Wed, 02 Jun 2021 15:33:21 Z</pubDate>
+      <atom:content
+        type="text">New enhancements and updates released for general availability (GA) in Azure Security Center in May 2021.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-site-recovery-update-rollup-55-is-now-generally-available-april-2021</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-site-recovery-update-rollup-55-is-now-generally-available-april-2021/</link>
+      <title>Azure Site Recovery update rollup 55 is now generally available - April 2021</title>
+      <description>The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components.</description>
+      <pubDate>Tue, 01 Jun 2021 15:52:22 Z</pubDate>
+      <atom:content
+        type="text">The latest Azure Site Recovery update provides improvements, fixes, updated replication support, and download links for Site Recovery components.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">reading-delta-lake-with-t-sql-azure-synapse-analytics-serverless-sql-pools-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/reading-delta-lake-with-t-sql-azure-synapse-analytics-serverless-sql-pools-public-preview/</link>
+      <category>Azure Synapse Analytics</category>
+      <category>T-SQL</category>
+      <category>Serverless SQL pools</category>
+      <category>Delta Lake</category>
+      <category>Logical Data Warehouse</category>
+      <title>Query Delta Lake files using T-SQL in Azure Synapse Analytics (public preview)</title>
+      <description>Use T-SQL in Azure Synapse to read Delta Lake format. </description>
+      <pubDate>Thu, 27 May 2021 17:00:43 Z</pubDate>
+      <atom:content
+        type="text">Use T-SQL in Azure Synapse to read Delta Lake format. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">cognitive-services-form-recognizer-adds-new-version-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/cognitive-services-form-recognizer-adds-new-version-in-general-availability/</link>
+      <title>Cognitive Services - Form Recognizer adds new version in general availability</title>
+      <description>Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. </description>
+      <pubDate>Thu, 27 May 2021 16:00:43 Z</pubDate>
+      <atom:content
+        type="text">Support for 73 languages, prebuilt ID model, invoice line item extraction, table header extraction tagging as table, and more generally available in Azure Form Recognizer, part of Applied AI Services. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-log-analytics-in-south-india</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-south-india/</link>
+      <category>Azure Log Analytics; Azure Monitor; Log Analytics;</category>
+      <title>General availability: Azure Log Analytics in South India</title>
+      <description>Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. </description>
+      <pubDate>Thu, 27 May 2021 00:22:34 Z</pubDate>
+      <atom:content
+        type="text">Log Analytics, a feature of Azure Monitor, is now generally available for customers to start collecting telemetry and analyzing their services for health and usage in South India. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-application-insight-in-south-india</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-south-india/</link>
+      <category>Azure Monitor</category>
+      <category>Application Insight</category>
+      <title>General availability: Application Insight in South India </title>
+      <description>Application Insight, a part of Azure Monitor, is now generally available in South India region for customers to collect telemetry and analyze their service health in production environments. </description>
+      <pubDate>Thu, 27 May 2021 00:22:23 Z</pubDate>
+      <atom:content
+        type="text">Application Insight, a part of Azure Monitor, is now generally available in South India region for customers to collect telemetry and analyze their service health in production environments. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-storage-blob-inventory-preview-is-now-available-in-all-public-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-storage-blob-inventory-preview-is-now-available-in-all-public-regions/</link>
+      <title>Azure Storage Blob inventory public preview is now available in all public regions</title>
+      <description>Blob inventory allows you to get a full listing of all blobs within a storage account or container. This can be used in conjunction with Synapse to calculate per container metrics such as capacity and count.</description>
+      <pubDate>Thu, 27 May 2021 00:21:06 Z</pubDate>
+      <atom:content
+        type="text">Blob inventory allows you to get a full listing of all blobs within a storage account or container. This can be used in conjunction with Synapse to calculate per container metrics such as capacity and count.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-introducing-new-durable-functions-storage-provider-options</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-introducing-new-durable-functions-storage-provider-options/</link>
+      <title>Public preview: Introducing new Durable Functions storage provider options </title>
+      <description>Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview.</description>
+      <pubDate>Wed, 26 May 2021 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">Durable Functions, an extension to the Azure Functions runtime, adds two new storage provider options in public preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">powershell-support-in-durable-functions-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/powershell-support-in-durable-functions-is-now-generally-available/</link>
+      <title>PowerShell support in Durable Functions is now generally available</title>
+      <description>PowerShell users can use Durable Functions create serverless workflows to orchestrate complex, long-running automation processes.</description>
+      <pubDate>Wed, 26 May 2021 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">PowerShell users can use Durable Functions create serverless workflows to orchestrate complex, long-running automation processes.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">github-integration-with-azure-security-center-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/github-integration-with-azure-security-center-now-in-public-preview/</link>
+      <title>Azure Security Center integration with GitHub Actions, in public preview</title>
+      <description>GitHub’s integration with Azure Security Center is now in public preview—offering new ways for you to integrate security and compliance into early stages of the software development lifecycle. </description>
+      <pubDate>Wed, 26 May 2021 16:00:29 Z</pubDate>
+      <atom:content
+        type="text">GitHub’s integration with Azure Security Center is now in public preview—offering new ways for you to integrate security and compliance into early stages of the software development lifecycle. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-announcing-azure-synapse-link-for-dataverse</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-announcing-azure-synapse-link-for-dataverse/</link>
+      <title>Public preview: Announcing Azure Synapse Link for Dataverse</title>
+      <description>Power your business applications data with analytical and predictive insights.</description>
+      <pubDate>Wed, 26 May 2021 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Power your business applications data with analytical and predictive insights.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/scan-and-view-lineage-of-data-stored-in-hive-metastore-database-using-azure-purview/</link>
+      <title>Public preview: Scan and view lineage of data stored in Hive Metastore Database using Azure Purview</title>
+      <description>Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. </description>
+      <pubDate>Tue, 25 May 2021 20:00:18 Z</pubDate>
+      <atom:content
+        type="text">Azure Purview now supports automated scanning from a Hive Metastore Database to extract schema and lineage between data. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">spot-virtual-machines-are-now-generally-available-on-azure-databricks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/spot-virtual-machines-are-now-generally-available-on-azure-databricks/</link>
+      <title>Spot Virtual Machines are now generally available on Azure Databricks</title>
+      <description>Access unused Azure compute capacity at discounted rates using Spot VMs on Azure Databricks</description>
+      <pubDate>Tue, 25 May 2021 18:00:16 Z</pubDate>
+      <atom:content
+        type="text">Access unused Azure compute capacity at discounted rates using Spot VMs on Azure Databricks</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+  </channel>
+</rss>
